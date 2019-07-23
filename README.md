@@ -4,9 +4,21 @@ ICCV2019官网：http://iccv2019.thecvf.com/(共收到4303篇投稿）<br>
 会议时间：2019/10/27-2019/11/2<br>
 
 接收结果：　[1077篇！ICCV2019接收结果公布，你中了吗？（附7篇论文链接，含Oral)](https://mp.weixin.qq.com/s/v8fpl8gvxF1jA-gYgSci1w)<br>
-接收论文ID查看链接：https://docs.google.com/document/d/1ip33oABDWYT9ic7j6NSjcmj67P0BwSMKUJhQpiMjW2E/edit <br><br>
+接收论文ID查看链接：https://docs.google.com/document/d/1ip33oABDWYT9ic7j6NSjcmj67P0BwSMKUJhQpiMjW2E/edit <br>
+ICCV2019论文下载及接收ID文档百度云链接<br>链接:https://pan.baidu.com/s/1yeA8qNkkb92Z0vA-8h2FTg  密码:nynu<br><br>
 
 ICCV2019论文抢先读：<br>
+
+9.nocaps: novel object captioning at scale<br>
+作者：Harsh Agrawal, Karan Desai, Yufei Wang, Xinlei Chen, Rishabh Jain, Mark Johnson, Dhruv Batra, Devi Parikh, Stefan Lee, Peter Anderson<br>
+项目链接：https://nocaps.org<br>
+论文链接：https://arxiv.org/abs/1812.08658<br><br>
+
+8.ThunderNet: Towards Real-time Generic Object Detection(目标检测，国防科大&旷视科技）<br>
+作者：Zheng Qin, Zeming Li, Zhaoning Zhang, Yiping Bao, Gang Yu, Yuxing Peng, Jian Sun<br>
+论文链接：https://arxiv.org/abs/1903.11752<br>
+论文解读：http://bbs.cvmart.net/articles/361<br><br>
+
 7.MemorizingNormality to Detect Anomaly: Memory-augmented Deep Autoencoder (MemAE) forUnsupervised Anomaly Detection<br>
 作者：Dong Gong, Lingqiao Liu, Vuong Le, Budhaditya Saha, Moussa Reda Mansour, Svetha Venkatesh, Anton van den Hengel<br>
 项目链接：https://donggong1.github.io/anomdec-memae.html<br>
