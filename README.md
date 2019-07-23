@@ -7,6 +7,25 @@ ICCV2019官网：http://iccv2019.thecvf.com/(共收到4303篇投稿）<br>
 接收论文ID查看链接：https://docs.google.com/document/d/1ip33oABDWYT9ic7j6NSjcmj67P0BwSMKUJhQpiMjW2E/edit <br><br>
 
 ICCV2019论文抢先读：<br>
+11.Tell, Draw, and Repeat: Generating and modifying images based on continual linguistic instruction<br>
+作者：Alaaeldin El-Nouby, Shikhar Sharma, Hannes Schulz, Devon Hjelm, Layla El Asri, Samira Ebrahimi Kahou, Yoshua Bengio, Graham W. Taylor<br>
+论文链接：https://arxiv.org/pdf/1811.09845.pdf<br><br>
+
+10.Semantic Adversarial Attacks: Parametric Transformations That Fool Deep Classifiers<br>
+作者：Ameya Joshi, Amitangshu Mukherjee, Soumik Sarkar, Chinmay Hegde<br>
+论文链接：https://arxiv.org/abs/1904.08489<br><br>
+
+9.What Would You Expect? Anticipating Egocentric Actions with Rolling-Unrolling LSTMs and Modality Attention<br>
+作者：Antonino Furnari, Giovanni Maria Farinella<br>
+项目链接：https://iplab.dmi.unict.it/rulstm/<br>
+论文链接：https://arxiv.org/pdf/1905.09035.pdf<br>
+GitHub：https://github.com/antoninofurnari/rulstm<br><br>
+
+8.Meta-Sim Learning to Generate Synthetic Datasets (Oral)<br>
+作者：Amlan Kar, Aayush Prakash, Ming-Yu Liu, Eric Cameracci, Justin Yuan, Matt Rusiniak, David Acuna, Antonio Torralba, Sanja Fidler<br>
+项目链接：https://nv-tlabs.github.io/meta-sim/<br>
+论文链接：https://arxiv.org/abs/1904.11621<br><br>
+
 7.MemorizingNormality to Detect Anomaly: Memory-augmented Deep Autoencoder (MemAE) forUnsupervised Anomaly Detection<br>
 作者：Dong Gong, Lingqiao Liu, Vuong Le, Budhaditya Saha, Moussa Reda Mansour, Svetha Venkatesh, Anton van den Hengel<br>
 项目链接：https://donggong1.github.io/anomdec-memae.html<br>
