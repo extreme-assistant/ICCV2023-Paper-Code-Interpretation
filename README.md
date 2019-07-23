@@ -9,6 +9,26 @@ ICCV2019论文下载及接收ID文档百度云链接<br>链接:https://pan.baidu
 
 ICCV2019论文抢先读：<br>
 
+13.Tell, Draw, and Repeat: Generating and modifying images based on continual linguistic instruction<br>
+作者：Alaaeldin El-Nouby, Shikhar Sharma, Hannes Schulz, Devon Hjelm, Layla El Asri, Samira Ebrahimi Kahou, Yoshua Bengio, Graham W. Taylor<br>
+论文链接：https://arxiv.org/pdf/1811.09845.pdf<br><br>
+
+12.Semantic Adversarial Attacks: Parametric Transformations That Fool Deep Classifiers<br>
+作者：Ameya Joshi, Amitangshu Mukherjee, Soumik Sarkar, Chinmay Hegde<br>
+论文链接：https://arxiv.org/abs/1904.08489<br><br>
+
+11.What Would You Expect? Anticipating Egocentric Actions with Rolling-Unrolling LSTMs and Modality Attention<br>
+作者：Antonino Furnari, Giovanni Maria Farinella<br>
+项目链接：https://iplab.dmi.unict.it/rulstm/<br>
+论文链接：https://arxiv.org/pdf/1905.09035.pdf<br>
+GitHub：https://github.com/antoninofurnari/rulstm<br><br>
+
+10.Meta-Sim Learning to Generate Synthetic Datasets (Oral)<br>
+作者：Amlan Kar, Aayush Prakash, Ming-Yu Liu, Eric Cameracci, Justin Yuan, Matt Rusiniak, David Acuna, Antonio Torralba, Sanja Fidler<br>
+项目链接：https://nv-tlabs.github.io/meta-sim/<br>
+论文链接：https://arxiv.org/abs/1904.11621<br><br>
+
+
 9.nocaps: novel object captioning at scale<br>
 作者：Harsh Agrawal, Karan Desai, Yufei Wang, Xinlei Chen, Rishabh Jain, Mark Johnson, Dhruv Batra, Devi Parikh, Stefan Lee, Peter Anderson<br>
 项目链接：https://nocaps.org<br>
@@ -18,6 +38,7 @@ ICCV2019论文抢先读：<br>
 作者：Zheng Qin, Zeming Li, Zhaoning Zhang, Yiping Bao, Gang Yu, Yuxing Peng, Jian Sun<br>
 论文链接：https://arxiv.org/abs/1903.11752<br>
 论文解读：http://bbs.cvmart.net/articles/361<br><br>
+
 
 7.MemorizingNormality to Detect Anomaly: Memory-augmented Deep Autoencoder (MemAE) forUnsupervised Anomaly Detection<br>
 作者：Dong Gong, Lingqiao Liu, Vuong Le, Budhaditya Saha, Moussa Reda Mansour, Svetha Venkatesh, Anton van den Hengel<br>
