@@ -9,6 +9,32 @@ ICCV2019论文下载及接收ID文档百度云链接<br>链接:https://pan.baidu
 
 ICCV2019论文抢先读：<br>
 
+42.Rethinking ImageNet Pre-training <br>
+作者：Kaiming He, Ross Girshick, and Piotr Dollár <br>
+论文链接：https://arxiv.org/abs/1811.08883 <br><br>
+
+41.TensorMask: A Foundation for Dense Object Segmentation <br>
+作者：Xinlei Chen, Ross Girshick, Kaiming He, and Piotr Dollár <br>
+论文链接：https://arxiv.org/abs/1903.12174 <br><br>
+
+40.Deep Hough Voting for 3D Object Detection in Point CloudsOral <br>
+作者：Charles R. Qi, Or Litany, Kaiming He, and Leonidas J. Guibas <br>
+论文链接：https://arxiv.org/abs/1904.09664 <br><br>
+<br>
+39.SlowFast Networks for Video RecognitionOral <br>
+作者：Christoph Feichtenhofer, Haoqi Fan, Jitendra Malik, and Kaiming He <br>
+论文链接：https://arxiv.org/abs/1812.03982 <br>
+<br>
+38.Exploring Randomly Wired Neural Networks for Image RecognitionOral <br>
+作者：Saining Xie, Alexander Kirillov, Ross Girshick, and Kaiming He <br>
+论文链接：https://arxiv.org/abs/1904.01569 <br>
+<br>
+37.FCOS: Fully Convolutional One-Stage Object Detectio <br>
+作者：Zhi Tian, Chunhua Shen, Hao Chen, Tong He <br>
+论文链接：https://arxiv.org/abs/1904.01355 <br>
+Github链接：https://github.com/tianzhi0549/FCOS/ <br> 论文解读：
+https://mp.weixin.qq.com/s/N93TrVnUuvAgfcoHXevTHw
+<br><br>
 
 36.3D Point Cloud Learning for Large-scale Environment Analysis and Place Recognition<br>
 作者：Zhe Liu, Shunbo Zhou, Chuanzhe Suo, Yingtian Liu, Hesheng Wang, Yun-Hui Liu<br>
