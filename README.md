@@ -9,37 +9,106 @@ ICCV2019论文下载及接收ID文档百度云链接<br>链接:https://pan.baidu
 
 ICCV2019论文抢先读：<br>
 
-20.3D Point Cloud Learning for Large-scale Environment Analysis and Place Recognition<br>
+
+36.3D Point Cloud Learning for Large-scale Environment Analysis and Place Recognition<br>
 作者：Zhe Liu, Shunbo Zhou, Chuanzhe Suo, Yingtian Liu, Hesheng Wang, Yun-Hui Liu<br>
 论文链接：https://arxiv.org/abs/1812.07050<br><br>
 
-19.Selectivity or Invariance: Boundary-aware Salient Object Detection<br>
+35.Selectivity or Invariance: Boundary-aware Salient Object Detection<br>
 作者：Jinming Su, Jia Li1, Yu Zhang, Changqun Xia and Yonghong Tian<br>
 论文链接：https://arxiv.org/pdf/1812.10066.pdf<br><br>
 
-18.Can GCNs Go as Deep as CNNs?<br>
+34.Can GCNs Go as Deep as CNNs?<br>
 作者：Guohao Li, Matthias Müller, Ali Thabet, Bernard Ghanem<br>
 论文链接：https://arxiv.org/abs/1904.03751<br>
 GitHub：https://github.com/lightaime/deep_gcns<br><br>
 
-17.Joint Monocular 3D Detection and Tracking<br>
+33.Joint Monocular 3D Detection and Tracking<br>
 作者：Hou-Ning Hu, Qizhi Cai, Dequan Wang, Ji Lin, Min Sun, Philipp Krähenbühl, Trevor Darrell, Fisher Yu<br> 
 论文链接：https://arxiv.org/abs/1811.10742<br>
 项目链接：https://eborboihuc.github.io/Mono-3DT/?fbclid=IwAR1maTNHE5z-vEwAJKIcNEpbMWwBcjWJQ0gEHOwHB-u51w5dfeiZNCh0y-U<br>
 GitHub：https://github.com/ucbdrive/3d-vehicle-tracking<br><br>
 
-16.Point-to-Point Video Generation<br>
+32.Point-to-Point Video Generation<br>
 作者：Tsun-Hsuan Wang, Yen-Chi Cheng, Chieh Hubert Lin, Hwann-Tzong Chen, Min Sun<br>
 论文链接：https://arxiv.org/abs/1904.02912<br>
 项目链接：https://zswang666.github.io/P2PVG-Project-Page/?fbclid=IwAR1Cr-T54keo5zzaWLQuYNQMcPoKzXGr6-YrTDoauW6Hb5bOSwgluZQ3fIE<br><br>
 
-15.Creativity Inspired Zero-Shot Learning<br>
+31.Creativity Inspired Zero-Shot Learning<br>
 作者：Mohamed Elhoseiny, Mohamed Elfeki<br>
 论文链接：https://arxiv.org/abs/1904.01109<br><br>
 
-14.HowTo100M: Learning a Text-Video Embedding by Watching Hundred Million Narrated Video Clips<br>
+30.HowTo100M: Learning a Text-Video Embedding by Watching Hundred Million Narrated Video Clips<br>
 作者：Antoine Miech, Dimitri Zhukov, Jean-Baptiste Alayrac, Makarand Tapaswi, Ivan Laptev, Josef Sivic<br>
 论文链接：https://arxiv.org/abs/1906.03327<br><br>
+
+
+29.Correlation Congruence for Knowledge Distillation <br>
+作者：Baoyun Peng, Xiao Jin, Jiaheng Liu, Shunfeng Zhou, Yichao Wu, Yu Liu, Dongsheng Li, Zhaoning Zhang <br>
+论文链接：https://arxiv.org/abs/1904.018029 <br>
+<br>
+28.VATEX: A Large-Scale, High-Quality Multilingual Dataset for Video-and-Language Research <br>
+作者：Xin Wang, Jiawei Wu, Junkun Chen, Lei Li, Yuan-Fang Wang, William Yang Wang <br>
+论文链接：https://arxiv.org/abs/1904.03493 <br>
+项目链接：http://vatex.org/main/index.html <br><br>
+27.Episodic Training for Domain Generalization <br>
+作者：Da Li, Jianshu Zhang, Yongxin Yang, Cong Liu, Yi-Zhe Song, Timothy M. Hospedales <br>
+论文链接：https://arxiv.org/abs/1902.00113 <br><br>
+26.Exploring the Limitations of Behavior Cloning for Autonomous Driving <br>
+作者：Felipe Codevilla, Eder Santana, Antonio M. López, Adrien Gaidon <br>
+论文链接：https://arxiv.org/abs/1904.08980 <br>
+Github链接：https://github.com/felipecode/coiltraine/blob/master/docs/exploring_limitations.md <br>
+<br>
+25.GarNet: A Two-stream Network for Fast and Accurate 3D Cloth Draping <br>
+作者：Erhan Gundogdu, Victor Constantin, Amrollah Seifoddini, Minh Dang, Mathieu Salzmann, Pascal Fua <br>
+论文链接：https://arxiv.org/abs/1811.10983v2 <br>
+项目链接：https://cvlab.epfl.ch/research/garment-simulation/garnet/ <br><br>
+24.Tex2Shape: Detailed Full Human Body Geometry from a Single Image <br>
+作者：Thiemo Alldieck, Gerard Pons-Moll, Christian Theobalt, Marcus Magnor <br>
+论文链接：https://arxiv.org/abs/1904.08645 <br>
+Github链接：https://github.com/thmoa/tex2shape <br>
+23.Semi-supervised Domain Adaptation via Minimax Entropy <br>
+作者：Kuniaki Saito, Donghyun Kim, Stan Sclaroff, Trevor Darrell, Kate Saenko <br>
+论文链接：https://arxiv.org/abs/1904.06487 <br>
+<br>
+22.xR-EgoPose: Egocentric 3D Human Pose from an HMD Camera <br>
+作者：Denis Tome, Patrick Peluse, Lourdes Agapito, Hernan Badino <br>
+论文链接：https://arxiv.org/abs/1907.10045 <br>
+<br>
+21.Canonical Surface Mapping via Geometric Cycle Consistency <br>
+作者：Nilesh Kulkarni, Abhinav Gupta, Shubham Tulsiani <br>
+论文链接：https://arxiv.org/abs/1907.10043 <br>
+项目链接：https://nileshkulkarni.github.io/csm/ <br><br>
+20.Incremental Class Discovery for Semantic Segmentation with RGBD Sensing <br>
+作者：Yoshikatsu Nakajima, Byeongkeun Kang, Hideo Saito, Kris Kitani <br>
+论文链接：https://arxiv.org/abs/1907.10008 <br>
+19.U4D: Unsupervised 4D Dynamic Scene Understanding <br>
+作者：Armin Mustafa, Chris Russell, Adrian Hilton <br>
+论文链接：https://arxiv.org/abs/1907.09905 <br>
+18.BMN: Boundary-Matching Network for Temporal Action Proposal Generation <br>
+作者：Tianwei Lin, Xiao Liu, Xin Li, Errui Ding, Shilei Wen <br>
+论文链接：https://arxiv.org/abs/1907.09702 <br>
+
+ <br>
+17.Similarity-Preserving Knowledge Distillation <br>
+作者：Frederick Tung, Greg Mori <br>
+论文链接：https://arxiv.org/abs/1907.09682 <br>
+
+ <br>
+16.GA-DAN: Geometry-Aware Domain Adaptation Network for Scene Text Detection and Recognition <br>
+作者：Fangneng Zhan, Chuhui Xue, Shijian Lu <br>
+论文链接：https://arxiv.org/abs/1907.09653 <br>
+ <br>
+15.Deep SR-ITM: Joint Learning of Super-resolution and Inverse Tone-Mapping for 4K UHD HDR ApplicationsOral <br>
+作者：Soo Ye Kim, Jihyong Oh, Munchurl Kim <br>
+论文链接：https://arxiv.org/abs/1904.11176 <br>
+
+ <br>
+14.Free-form Video Inpainting with 3D Gated Convolution and Temporal PatchGAN <br>
+作者：Ya-Liang Chang, Zhe Yu Liu, Kuan-Ying Lee, Winston Hsu <br>
+论文链接：https://arxiv.org/abs/1904.10247 <br>
+Github链接：https://github.com/amjltc295/Free-Form-Video-Inpainting <br>
+ <br>
 
 13.Tell, Draw, and Repeat: Generating and modifying images based on continual linguistic instruction<br>
 作者：Alaaeldin El-Nouby, Shikhar Sharma, Hannes Schulz, Devon Hjelm, Layla El Asri, Samira Ebrahimi Kahou, Yoshua Bengio, Graham W. Taylor<br>
