@@ -9,6 +9,38 @@ ICCV2019论文下载及接收ID文档百度云链接<br>链接:https://pan.baidu
 
 ICCV2019论文抢先读：<br>
 
+20.3D Point Cloud Learning for Large-scale Environment Analysis and Place Recognition<br>
+作者：Zhe Liu, Shunbo Zhou, Chuanzhe Suo, Yingtian Liu, Hesheng Wang, Yun-Hui Liu<br>
+论文链接：https://arxiv.org/abs/1812.07050<br><br>
+
+19.Selectivity or Invariance: Boundary-aware Salient Object Detection<br>
+作者：Jinming Su, Jia Li1, Yu Zhang, Changqun Xia and Yonghong Tian<br>
+论文链接：https://arxiv.org/pdf/1812.10066.pdf<br><br>
+
+18.Can GCNs Go as Deep as CNNs?<br>
+作者：Guohao Li, Matthias Müller, Ali Thabet, Bernard Ghanem<br>
+论文链接：https://arxiv.org/abs/1904.03751<br>
+GitHub：https://github.com/lightaime/deep_gcns<br><br>
+
+17.Joint Monocular 3D Detection and Tracking<br>
+作者：Hou-Ning Hu, Qizhi Cai, Dequan Wang, Ji Lin, Min Sun, Philipp Krähenbühl, Trevor Darrell, Fisher Yu<br> 
+论文链接：https://arxiv.org/abs/1811.10742<br>
+项目链接：https://eborboihuc.github.io/Mono-3DT/?fbclid=IwAR1maTNHE5z-vEwAJKIcNEpbMWwBcjWJQ0gEHOwHB-u51w5dfeiZNCh0y-U<br>
+GitHub：https://github.com/ucbdrive/3d-vehicle-tracking<br><br>
+
+16.Point-to-Point Video Generation<br>
+作者：Tsun-Hsuan Wang, Yen-Chi Cheng, Chieh Hubert Lin, Hwann-Tzong Chen, Min Sun<br>
+论文链接：https://arxiv.org/abs/1904.02912<br>
+项目链接：https://zswang666.github.io/P2PVG-Project-Page/?fbclid=IwAR1Cr-T54keo5zzaWLQuYNQMcPoKzXGr6-YrTDoauW6Hb5bOSwgluZQ3fIE<br><br>
+
+15.Creativity Inspired Zero-Shot Learning<br>
+作者：Mohamed Elhoseiny, Mohamed Elfeki<br>
+论文链接：https://arxiv.org/abs/1904.01109<br><br>
+
+14.HowTo100M: Learning a Text-Video Embedding by Watching Hundred Million Narrated Video Clips<br>
+作者：Antoine Miech, Dimitri Zhukov, Jean-Baptiste Alayrac, Makarand Tapaswi, Ivan Laptev, Josef Sivic<br>
+论文链接：https://arxiv.org/abs/1906.03327<br><br>
+
 13.Tell, Draw, and Repeat: Generating and modifying images based on continual linguistic instruction<br>
 作者：Alaaeldin El-Nouby, Shikhar Sharma, Hannes Schulz, Devon Hjelm, Layla El Asri, Samira Ebrahimi Kahou, Yoshua Bengio, Graham W. Taylor<br>
 论文链接：https://arxiv.org/pdf/1811.09845.pdf<br><br>
