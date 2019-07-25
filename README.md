@@ -1,4 +1,4 @@
-# iccv2019
+# ICCV 2019
 ICCV 2019 papers/news<br>
 ICCV2019官网：http://iccv2019.thecvf.com/(共收到4303篇投稿）<br>
 会议时间：2019/10/27-2019/11/2<br>
@@ -8,6 +8,26 @@ ICCV2019官网：http://iccv2019.thecvf.com/(共收到4303篇投稿）<br>
 ICCV2019论文下载及接收ID文档百度云链接<br>链接:https://pan.baidu.com/s/1yeA8qNkkb92Z0vA-8h2FTg  密码:nynu<br><br>
 
 ICCV2019论文抢先读：<br>
+58.3D-RelNet: Joint Object and Relational Network for 3D Prediction<br>
+作者：Nilesh Kulkarni, Ishan Misra, Shubham Tulsiani, Abhinav Gupta<br>
+论文链接：https://arxiv.org/pdf/1906.02729.pdf<br><br>
+
+57.Learning Compositional Representations for Few-Shot Recognition<br>
+作者：Pavel Tokmakov, Yuxiong Wang, Martial Hebert<br>
+论文链接：https://sites.google.com/view/comprepr/home<br><br>
+
+
+56.Digging Into Self-Supervised Monocular Depth Estimation<br>
+作者：Clement Godard, Oisin Mac Aodha, Michael Firman, Gabriel Brostow<br>
+论文链接：https://arxiv.org/pdf/1806.01260.pdf<br><br>
+
+55.Deep Interpretable Non-Rigid Structure from Motion<br>
+作者：Chen Kong, Simon Lucey<br>
+论文链接：https://arxiv.org/pdf/1902.10840.pdf<br><br>
+54.PRECOG: PREdiction Conditioned On Goals in Visual Multi-Agent Settings<br>
+作者：Nicholas Rhinehart, Rowan McAllister, Kris Kitani, Sergey Levine<br>
+论文链接：https://arxiv.org/pdf/1905.01296.pdf<br>
+项目链接：https://sites.google.com/view/precog<br><br>
 53.Lifelong GAN: Continual Learning for Conditional Image Generation <br>
 作者：Mengyao Zhai, Lei Chen, Fred Tung, Jiawei He, Megha Nawhal, Greg Mori <br>
 论文链接：https://arxiv.org/abs/1907.10107 <br>
@@ -51,6 +71,10 @@ ICCV2019论文抢先读：<br>
 作者：Cicero Nogueira dos Santos, Youssef Mroueh, Inkit Padhi, Pierre Dognin <br>
 论文链接：https://arxiv.org/abs/1904.02762v1 <br>
 <br>
+
+
+
+
 
 
 42.Rethinking ImageNet Pre-training <br>
