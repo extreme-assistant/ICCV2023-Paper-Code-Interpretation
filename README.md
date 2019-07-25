@@ -8,35 +8,74 @@ ICCV2019官网：http://iccv2019.thecvf.com/(共收到4303篇投稿）<br>
 ICCV2019论文下载及接收ID文档百度云链接<br>链接:https://pan.baidu.com/s/1yeA8qNkkb92Z0vA-8h2FTg  密码:nynu<br><br>
 
 ICCV2019论文抢先读：<br>
-
-49.3D-RelNet: Joint Object and Relational Network for 3D Prediction<br>
+58.3D-RelNet: Joint Object and Relational Network for 3D Prediction<br>
 作者：Nilesh Kulkarni, Ishan Misra, Shubham Tulsiani, Abhinav Gupta<br>
 论文链接：https://arxiv.org/pdf/1906.02729.pdf<br><br>
 
-48.Learning Compositional Representations for Few-Shot Recognition<br>
+57.Learning Compositional Representations for Few-Shot Recognition<br>
 作者：Pavel Tokmakov, Yuxiong Wang, Martial Hebert<br>
 论文链接：https://sites.google.com/view/comprepr/home<br><br>
 
-47.Learning Compositional Representations for Few-Shot Recognition<br>
-作者：Pavel Tokmakov, Yuxiong Wang, Martial Hebert<br>
-论文链接：https://sites.google.com/view/comprepr/home<br><br>
 
-46.Digging Into Self-Supervised Monocular Depth Estimation<br>
+56.Digging Into Self-Supervised Monocular Depth Estimation<br>
 作者：Clement Godard, Oisin Mac Aodha, Michael Firman, Gabriel Brostow<br>
 论文链接：https://arxiv.org/pdf/1806.01260.pdf<br><br>
 
-45.Deep Interpretable Non-Rigid Structure from Motion<br>
+55.Deep Interpretable Non-Rigid Structure from Motion<br>
 作者：Chen Kong, Simon Lucey<br>
 论文链接：https://arxiv.org/pdf/1902.10840.pdf<br><br>
-
-44.PRECOG: PREdiction Conditioned On Goals in Visual Multi-Agent Settings<br>
+54.PRECOG: PREdiction Conditioned On Goals in Visual Multi-Agent Settings<br>
 作者：Nicholas Rhinehart, Rowan McAllister, Kris Kitani, Sergey Levine<br>
 论文链接：https://arxiv.org/pdf/1905.01296.pdf<br>
 项目链接：https://sites.google.com/view/precog<br><br>
+53.Lifelong GAN: Continual Learning for Conditional Image Generation <br>
+作者：Mengyao Zhai, Lei Chen, Fred Tung, Jiawei He, Megha Nawhal, Greg Mori <br>
+论文链接：https://arxiv.org/abs/1907.10107 <br>
+<br>
+52.Cap2Det: Learning to Amplify Weak Caption Supervision for Object Detection <br>
+作者：Keren Ye, Mingda Zhang, Adriana Kovashka, Wei Li, Danfeng Qin, Jesse Berent <br>
+论文链接：https://arxiv.org/abs/1907.10164 <br>
+<br>
+51.Towards Adversarially Robust Object Detection <br>
+作者：Haichao Zhang, Jianyu Wang <br>
+论文链接：https://arxiv.org/abs/1907.10310 <br>
+<br>
+50.6-DOF GraspNet: Variational Grasp Generation for Object Manipulation <br>
+作者：Arsalan Mousavian, Clemens Eppner, Dieter Fox <br>
+论文链接：https://arxiv.org/abs/1905.10520 <br>
+<br>
+49.Analyzing the Variety Loss in the Context of Probabilistic Trajectory Prediction <br>
+作者：Luca Anthony Thiede, Pratik Prabhanjan Brahma <br>
+论文链接：https://arxiv.org/abs/1907.10178 <br>
+<br>
+48.DAFL: Data-Free Learning of Student Networks <br>
+作者：Hanting Chen, Yunhe Wang, Chang Xu, Zhaohui Yang, Chuanjian Liu, Boxin Shi, Chunjing Xu, Chao Xu, Qi Tian <br>
+论文链接：https://arxiv.org/abs/1904.01186 <br>
+<br>
+47.Multi-adversarial Faster-RCNN for Unrestricted Object Detection <br>
+作者：Zhenwei He, Lei Zhang <br>
+论文链接：https://arxiv.org/abs/1907.10343 <br>
+<br>
+46.Boosting Few-Shot Visual Learning with Self-Supervision <br>
+作者：Spyros Gidaris, Andrei Bursuc, Nikos Komodakis, Patrick Pérez, Matthieu Cord <br>
+论文链接：https://arxiv.org/abs/1906.05186 <br>
+<br>
+45.A Quaternion-based Certifiably Optimal Solution to the Wahba Problem with Outliers <br>
+作者：Heng Yang, Luca Carlone <br>
+论文链接：https://arxiv.org/abs/1905.12536 <br>
+<br>
+44.Embodied Visual Recognition <br>
+作者：Jianwei Yang，Zhile Ren，Mingze Xu，Xinlei Chen，David Crandall，Devi Parikh，Dhruv Batra <br>
+项目链接：https://www.cc.gatech.edu/~jyang375/evr.html <br><br>
+43.Learning Implicit Generative Models by Matching Perceptual FeaturesOral <br>
+作者：Cicero Nogueira dos Santos, Youssef Mroueh, Inkit Padhi, Pierre Dognin <br>
+论文链接：https://arxiv.org/abs/1904.02762v1 <br>
+<br>
 
-43.COCO-GAN: Generation by Parts via Conditional Coordinating<br>
-作者：Chieh Hubert Lin, Chia-Che Chang, Yu-Sheng Chen, Da-Cheng Juan, Wei Wei, Hwann-Tzong Chen<br>
-论文链接：https://hubert0527.github.io/COCO-GAN/<br><br>
+
+
+
+
 
 42.Rethinking ImageNet Pre-training <br>
 作者：Kaiming He, Ross Girshick, and Piotr Dollár <br>
@@ -46,10 +85,12 @@ ICCV2019论文抢先读：<br>
 作者：Xinlei Chen, Ross Girshick, Kaiming He, and Piotr Dollár <br>
 论文链接：https://arxiv.org/abs/1903.12174 <br><br>
 
-40.Deep Hough Voting for 3D Object Detection in Point CloudsOral <br>
-作者：Charles R. Qi, Or Litany, Kaiming He, and Leonidas J. Guibas <br>
-论文链接：https://arxiv.org/abs/1904.09664 <br><br>
-<br>
+40.COCO-GAN: Generation by Parts via Conditional CoordinatingOral <br>
+作者：Chieh Hubert Lin, Chia-Che Chang, Yu-Sheng Chen, Da-Cheng Juan, Wei Wei, Hwann-Tzong Chen <br>
+论文链接：https://arxiv.org/abs/1904.00284 <br>
+Github链接：https://github.com/hubert0527/COCO-GAN <br>
+项目链接：https://hubert0527.github.io/COCO-GAN/ <br><br>
+
 39.SlowFast Networks for Video RecognitionOral <br>
 作者：Christoph Feichtenhofer, Haoqi Fan, Jitendra Malik, and Kaiming He <br>
 论文链接：https://arxiv.org/abs/1812.03982 <br>
@@ -105,7 +146,8 @@ GitHub：https://github.com/ucbdrive/3d-vehicle-tracking<br><br>
 28.VATEX: A Large-Scale, High-Quality Multilingual Dataset for Video-and-Language Research <br>
 作者：Xin Wang, Jiawei Wu, Junkun Chen, Lei Li, Yuan-Fang Wang, William Yang Wang <br>
 论文链接：https://arxiv.org/abs/1904.03493 <br>
-项目链接：http://vatex.org/main/index.html <br><br>
+项目链接：http://vatex.org/main/index.html <br>
+论文解读：https://mp.weixin.qq.com/s/bOpKXshitpQ1YKE53WUPEw<br><br>
 27.Episodic Training for Domain Generalization <br>
 作者：Da Li, Jianshu Zhang, Yongxin Yang, Cong Liu, Yi-Zhe Song, Timothy M. Hospedales <br>
 论文链接：https://arxiv.org/abs/1902.00113 <br><br>
