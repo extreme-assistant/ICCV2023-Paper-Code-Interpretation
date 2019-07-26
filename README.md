@@ -8,6 +8,10 @@ ICCV2019官网：http://iccv2019.thecvf.com/(共收到4303篇投稿）<br>
 ICCV2019论文下载及接收ID文档百度云链接<br>链接:https://pan.baidu.com/s/1yeA8qNkkb92Z0vA-8h2FTg  密码:nynu<br><br>
 
 ICCV2019论文抢先读：<br>
+59.Moment Matching for Multi-Source Domain Adaptation (Oral) <br>
+作者：Xingchao Peng, Qinxun Bai, Xide Xia, Zijun Huang, Kate Saenko, Bo Wang<br>
+论文链接：https://arxiv.org/abs/1812.01754<br><br>
+
 58.3D-RelNet: Joint Object and Relational Network for 3D Prediction<br>
 作者：Nilesh Kulkarni, Ishan Misra, Shubham Tulsiani, Abhinav Gupta<br>
 论文链接：https://arxiv.org/pdf/1906.02729.pdf<br><br>
@@ -248,7 +252,7 @@ GitHub：https://github.com/donggong1/memae-anomaly-detection<br><br>
 作者：Vincent S. Chen, Paroma Varma, Ranjay Krishna, Michael Bernstein, Christopher Re, Li Fei-Fei<br>
 论文链接：https://arxiv.org/abs/1904.11622<br><br>
  
-5.Deep HoughVoting for 3D Object Detection in Point Clouds（Oral）<br>
+5.Deep Hough Voting for 3D Object Detection in Point Clouds（Oral）<br>
 作者：Charles R. Qi, Or Litany, Kaiming He, Leonidas J. Guibas<br>
 论文链接：https://arxiv.org/abs/1904.09664<br><br>
  
