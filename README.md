@@ -8,6 +8,48 @@ ICCV2019官网：http://iccv2019.thecvf.com/(共收到4303篇投稿）<br>
 ICCV2019论文下载及接收ID文档百度云链接<br>链接:https://pan.baidu.com/s/1yeA8qNkkb92Z0vA-8h2FTg  密码:nynu<br><br>
 
 ICCV2019论文抢先读：<br>
+70.Model Vulnerability to Distributional Shifts over Image Transformation Sets <br>
+作者：Riccardo Volpi, Vittorio Murino <br>
+论文链接：https://arxiv.org/abs/1903.11900 <br>
+Github链接：https://github.com/ricvolpi/domain-shift-robustness <br><br>
+69.Coherent Semantic Attention for Image Inpainting <br>
+作者：Hongyu Liu, Bin Jiang, Yi Xiao, Chao Yang <br>
+论文链接：https://arxiv.org/abs/1905.12384 <br>
+<br>
+68.Learning to Paint with Model-based Deep Reinforcement Learning <br>
+作者：Zhewei Huang, Wen Heng, Shuchang Zhou <br>
+论文链接：https://arxiv.org/abs/1903.04411 <br>
+Github链接：https://github.com/hzwer/ICCV2019-LearningToPaint <br><br>
+67.LayoutVAE: Stochastic Scene Layout Generation from a Label Set <br>
+作者：Akash Abdu Jyothi, Thibaut Durand, Jiawei He, Leonid Sigal, Greg Mori <br>
+论文链接：https://arxiv.org/abs/1907.10719 <br>
+<br>
+66.Co-Evolutionary Compression for Unpaired Image Translation <br>
+作者：Han Shu, Yunhe Wang, Xu Jia, Kai Han, Hanting Chen, Chunjing Xu, Qi Tian, Chang Xu <br>
+论文链接：https://arxiv.org/abs/1907.10804 <br>
+<br>
+65.Enhancing Adversarial Example Transferability with an Intermediate Level Attack <br>
+作者：Qian Huang, Isay Katsman, Horace He, Zeqi Gu, Serge Belongie, Ser-Nam Lim <br>
+论文链接：https://arxiv.org/abs/1907.10823 <br>
+<br>
+64.Simultaneous multi-view instance detection with learned geometric soft-constraints <br>
+作者：Ahmed Samy Nassar, Sebastien Lefevre, Jan D. Wegner <br>
+论文链接：https://arxiv.org/abs/1907.10892 <br>
+<br>
+63.Learnable Triangulation of Human PoseOral <br>
+作者：Karim Iskakov, Egor Burkov, Victor Lempitsky, Yury Malkov <br>
+论文链接：https://arxiv.org/abs/1905.05754 <br>
+Github链接：https://github.com/karfly/learnable-triangulation-pytorch <br>
+项目链接：https://saic-violet.github.io/learnable-triangulation/ <br><br>
+62.Gated2Depth: Real-time Dense Lidar from Gated Images <br>
+作者：Tobias Gruber, Frank Julca-Aguilar,Mario Bijelic,Werner Ritter,Klaus Dietmayer,Felix Heide <br>
+论文链接：https://www.cs.princeton.edu/~fheide/papers/Gated2Depth_preprint.pdf <br>
+<br>
+61.Counting with Focus for Free <br>
+作者：Zenglin Shi, Pascal Mettes, Cees G. M. Snoek <br>
+论文链接：https://arxiv.org/abs/1903.12206 <br>
+<br>
+
 60.PU-GAN: a Point Cloud Upsampling Adversarial Network <br>
 作者：Ruihui Li, Xianzhi Li, Chi-Wing Fu, Daniel Cohen-Or, Pheng-Ann Heng<br>
 论文链接：https://arxiv.org/abs/1907.10844<br><br>
