@@ -8,6 +8,10 @@ ICCV2019官网：http://iccv2019.thecvf.com/(共收到4303篇投稿）<br>
 ICCV2019论文下载及接收ID文档百度云链接<br>链接:https://pan.baidu.com/s/1yeA8qNkkb92Z0vA-8h2FTg  密码:nynu<br><br>
 
 ICCV2019论文抢先读：<br>
+60.PU-GAN: a Point Cloud Upsampling Adversarial Network <br>
+作者：Ruihui Li, Xianzhi Li, Chi-Wing Fu, Daniel Cohen-Or, Pheng-Ann Heng<br>
+论文链接：https://arxiv.org/abs/1907.10844<br><br>
+
 59.Moment Matching for Multi-Source Domain Adaptation (Oral) <br>
 作者：Xingchao Peng, Qinxun Bai, Xide Xia, Zijun Huang, Kate Saenko, Bo Wang<br>
 论文链接：https://arxiv.org/abs/1812.01754<br><br>
