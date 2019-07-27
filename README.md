@@ -3,11 +3,53 @@ ICCV 2019 papers/news<br>
 ICCV2019官网：http://iccv2019.thecvf.com/(共收到4303篇投稿）<br>
 会议时间：2019/10/27-2019/11/2<br>
 
-接收结果：　[1077篇！ICCV2019接收结果公布，你中了吗？（附7篇论文链接，含Oral)](https://mp.weixin.qq.com/s/v8fpl8gvxF1jA-gYgSci1w)<br>
+ICCV2019论文汇总帖子：http://bbs.cvmart.net/topics/447/iccv2019
+接收结果：[1077篇！ICCV2019接收结果公布，你中了吗？（附7篇论文链接，含Oral)](https://mp.weixin.qq.com/s/v8fpl8gvxF1jA-gYgSci1w)<br>
 接收论文ID查看链接：https://docs.google.com/document/d/1ip33oABDWYT9ic7j6NSjcmj67P0BwSMKUJhQpiMjW2E/edit <br>
 ICCV2019论文下载及接收ID文档百度云链接<br>链接:https://pan.baidu.com/s/1yeA8qNkkb92Z0vA-8h2FTg  密码:nynu<br><br>
 
-ICCV2019论文抢先读：<br>
+ICCV2019论文抢先读：(感谢 [@chongruo](https://github.com/chongruo) [@wwwzxoe303com](https://github.com/wwwzxoe303com) [@wangg12](https://github.com/wangg12) <br>
+78.Towards Multi-pose Guided Virtual Try-on Network <br>
+作者：Haoye Dong, Xiaodan Liang, Bochao Wang, Hanjiang Lai, Jia Zhu, Jian Yin <br>
+论文链接：https://arxiv.org/abs/1902.11026 <br>
+
+<br>
+77.Learning to Reconstruct 3D Manhattan Wireframes from a Single Image <br>
+作者：Yichao Zhou, Haozhi Qi, Yuexiang Zhai, Qi Sun, Zhili Chen, Li-Yi Wei, Yi Ma <br>
+论文链接：https://arxiv.org/abs/1905.07482 <br>
+
+<br>
+76.End-to-End Wireframe Parsing <br>
+作者：Yichao Zhou, Haozhi Qi, Yi Ma <br>
+论文链接：https://arxiv.org/abs/1905.03246 <br>
+Github链接：https://github.com/zhou13/lcnn <br>
+<br>
+75.Equivariant Multi-View Networks (Oral) <br>
+作者：Carlos Esteves, Yinshuang Xu, Christine Allen-Blanchette, Kostas Daniilidis <br>
+论文链接：https://arxiv.org/abs/1904.00993 <br>
+Github链接：https://github.com/daniilidis-group/emvn <br>
+<br>
+74.Few-shot Unsupervised Image-to-Image Translation <br>
+作者：Ming-Yu Liu, Xun Huang, Arun Mallya, Tero Karras, Timo Aila, Jaakko Lehtinen, Jan Kautz <br>
+论文链接：https://arxiv.org/abs/1905.01723 <br>
+Github链接：https://github.com/nvlabs/FUNIT/ <br>
+项目链接：http://www.cs.cornell.edu/~xhuang/publication/funit/ <br><br>
+73.Scoot: A Perceptual Metric for Facial Sketches <br>
+作者：Deng-Ping Fan, ShengChuan Zhang, Yu-Huan Wu, Yun Liu, Ming-Ming Cheng, Bo Ren, Paul L Rosin, Rongrong Ji <br>
+论文链接：http://dpfan.net/wp-content/uploads/FaceSketch.pdf <br>
+Github链接：http://dpfan.net/wp-content/uploads/Scoot.zip <br>
+项目链接：http://dpfan.net/Scoot/ <br><br>
+72.Improving Adversarial Robustness via Guided Complement Entropy <br>
+作者：Hao-Yun Chen*, Jhao-Hong Liang*, Shih-Chieh Chang, Jia-Yu Pan, Yu-Ting Chen, Wei Wei, Da-Cheng Juan. <br>
+论文链接：https://arxiv.org/abs/1903.09799 <br>
+Github链接：https://github.com/henry8527/GCE <br>
+<br>
+71.PointFlow : 3D Point Cloud Generation with Continuous Normalizing Flows(Oral) <br>
+作者：Guandao Yang, Xun Huang, Zekun Hao, Ming-Yu Liu, Serge Belongie, Bharath Hariharan <br>
+论文链接：https://arxiv.org/abs/1906.12320 <br>
+Github链接：https://github.com/stevenygd/PointFlow <br>
+项目链接：https://www.guandaoyang.com/PointFlow/ <br><br>
+
 70.Model Vulnerability to Distributional Shifts over Image Transformation Sets <br>
 作者：Riccardo Volpi, Vittorio Murino <br>
 论文链接：https://arxiv.org/abs/1903.11900 <br>
@@ -36,7 +78,7 @@ Github链接：https://github.com/hzwer/ICCV2019-LearningToPaint <br><br>
 作者：Ahmed Samy Nassar, Sebastien Lefevre, Jan D. Wegner <br>
 论文链接：https://arxiv.org/abs/1907.10892 <br>
 <br>
-63.Learnable Triangulation of Human PoseOral <br>
+63.Learnable Triangulation of Human Pose（Oral)<br>
 作者：Karim Iskakov, Egor Burkov, Victor Lempitsky, Yury Malkov <br>
 论文链接：https://arxiv.org/abs/1905.05754 <br>
 Github链接：https://github.com/karfly/learnable-triangulation-pytorch <br>
@@ -117,7 +159,7 @@ Github链接：https://github.com/karfly/learnable-triangulation-pytorch <br>
 44.Embodied Visual Recognition <br>
 作者：Jianwei Yang，Zhile Ren，Mingze Xu，Xinlei Chen，David Crandall，Devi Parikh，Dhruv Batra <br>
 项目链接：https://www.cc.gatech.edu/~jyang375/evr.html <br><br>
-43.Learning Implicit Generative Models by Matching Perceptual FeaturesOral <br>
+43.Learning Implicit Generative Models by Matching Perceptual Features(Oral) <br>
 作者：Cicero Nogueira dos Santos, Youssef Mroueh, Inkit Padhi, Pierre Dognin <br>
 论文链接：https://arxiv.org/abs/1904.02762v1 <br>
 <br>
@@ -135,17 +177,17 @@ Github链接：https://github.com/karfly/learnable-triangulation-pytorch <br>
 作者：Xinlei Chen, Ross Girshick, Kaiming He, and Piotr Dollár <br>
 论文链接：https://arxiv.org/abs/1903.12174 <br><br>
 
-40.COCO-GAN: Generation by Parts via Conditional CoordinatingOral <br>
+40.COCO-GAN: Generation by Parts via Conditional Coordinating(Oral) <br>
 作者：Chieh Hubert Lin, Chia-Che Chang, Yu-Sheng Chen, Da-Cheng Juan, Wei Wei, Hwann-Tzong Chen <br>
 论文链接：https://arxiv.org/abs/1904.00284 <br>
 Github链接：https://github.com/hubert0527/COCO-GAN <br>
 项目链接：https://hubert0527.github.io/COCO-GAN/ <br><br>
 
-39.SlowFast Networks for Video RecognitionOral <br>
+39.SlowFast Networks for Video Recognition(Oral)<br>
 作者：Christoph Feichtenhofer, Haoqi Fan, Jitendra Malik, and Kaiming He <br>
 论文链接：https://arxiv.org/abs/1812.03982 <br>
 <br>
-38.Exploring Randomly Wired Neural Networks for Image RecognitionOral <br>
+38.Exploring Randomly Wired Neural Networks for Image Recognition(Oral) <br>
 作者：Saining Xie, Alexander Kirillov, Ross Girshick, and Kaiming He <br>
 论文链接：https://arxiv.org/abs/1904.01569 <br>
 <br>
@@ -246,7 +288,7 @@ Github链接：https://github.com/thmoa/tex2shape <br>
 作者：Fangneng Zhan, Chuhui Xue, Shijian Lu <br>
 论文链接：https://arxiv.org/abs/1907.09653 <br>
  <br>
-15.Deep SR-ITM: Joint Learning of Super-resolution and Inverse Tone-Mapping for 4K UHD HDR ApplicationsOral <br>
+15.Deep SR-ITM: Joint Learning of Super-resolution and Inverse Tone-Mapping for 4K UHD HDR Applications(Oral) <br>
 作者：Soo Ye Kim, Jihyong Oh, Munchurl Kim <br>
 论文链接：https://arxiv.org/abs/1904.11176 <br>
 
