@@ -8,13 +8,102 @@ ICCV2019论文汇总帖子：http://bbs.cvmart.net/topics/447/iccv2019
 接收论文ID查看链接：https://docs.google.com/document/d/1ip33oABDWYT9ic7j6NSjcmj67P0BwSMKUJhQpiMjW2E/edit <br>
 ICCV2019论文下载及接收ID文档百度云链接<br>链接:https://pan.baidu.com/s/1yeA8qNkkb92Z0vA-8h2FTg  密码:nynu<br><br>
 
-ICCV2019论文抢先读：(感谢 [@chongruo](https://github.com/chongruo) [@wwwzxoe303com](https://github.com/wwwzxoe303com) [@wangg12](https://github.com/wangg12) <br>
+ICCV2019论文抢先读：(感谢 [@chongruo](https://github.com/chongruo) [@wwwzxoe303com](https://github.com/wwwzxoe303com) [@wangg12](https://github.com/wangg12)) <br>
+
+100.FrameNet: Learning Local Canonical Frames of 3D Surfaces from a Single RGB Image<br>
+作者：Jingwei Huang, Yichao Zhou, Thomas Funkhouser, Leonidas Guibas<br>
+论文链接：https://arxiv.org/pdf/1903.12305.pdf<br><br>
+
+99.Face De-occlusion using 3D Morphable Model and Generative Adversarial<br>
+作者：Xaiowei Yuan and In Kyu Park<br>
+论文链接：http://image.inha.ac.kr/paper/ICCV2019_Xaiowei.pdf<br><br>
+
+98.Deep Meta Learning for Real-Time Target-Aware Visual Tracking<br>
+作者：Janghoon Choi, Junseok Kwon, and Kyoung Mu Lee<br>
+论文链接：https://arxiv.org/pdf/1712.09153.pdf<br><br>
+
+97.Switchable Whitening for Deep Representation Learning<br>
+作者：Xingang Pan, Xiaohang Zhan, Jianping Shi, Xiaoou Tang, Ping Luo<br>
+论文链接：https://arxiv.org/abs/1904.09739<br><br>
+
+96.Drop an Octave: Reducing Spatial Redundancy in Convolutional Neural Networks with Octave Convolution<br>
+作者：Yunpeng Chen, Haoqi Fan, Bing Xu, Zhicheng Yan, Yannis Kalantidis, Marcus Rohrbach, Shuicheng Yan, Jiashi Feng<br>
+论文链接：https://arxiv.org/abs/1904.05049<br><br>
+
+95.Multi-layer Depth and Epipolar Feature Transformers for 3D Scene Reconstruction<br>
+作者：Daeyun Shin, Zhile Ren, Erik B. Sudderth, Charless C. Fowlkes<br>
+论文链接：https://arxiv.org/abs/1902.06729<br><br>
+
+94.Task2Vec: Task Embedding for Meta-Learning<br>
+作者：Alessandro Achille, Michael Lam, Rahul Tewari, Avinash Ravichandran, Subhransu Maji, Charless Fowlkes, Stefano Soatto, Pietro Perona<br>
+论文链接：https://arxiv.org/abs/1902.03545<br><br>
+
+93.VideoBERT: A Joint Model for Video and Language Representation Learning ( Oral )<br>
+作者：Chen Sun, Austin Myers, Carl Vondrick, Kevin Murphy, Cordelia Schmid<br>
+论文链接：https://arxiv.org/abs/1904.01766<br><br>
+
+92.CARAFE: Content-Aware ReAssembly of FEatures ( Oral )<br>
+作者：Jiaqi Wang, Kai Chen, Rui Xu, Ziwei Liu, Chen Change Loy, Dahua Lin<br>
+论文链接：https://arxiv.org/pdf/1905.02188.pdf<br><br>
+
+91.ACE: Adapting to Changing Environments for Semantic Segmentation<br>
+作者：Zuxuan Wu, Xin Wang, Joseph E. Gonzalez, Tom Goldstein, Larry S. Davis<br>
+论文链接：https://arxiv.org/pdf/1904.06268.pdf<br><br>
+
+90.Few-shot Object Detection via Feature Reweighting<br>
+作者：Bingyi Kang, Zhuang Liu, Xin Wang, Fisher Yu, Jiashi Feng, Trevor Darrell<br>
+论文链接：https://arxiv.org/pdf/1812.01866.pdf<br><br>
+
+89.Disentangling Propagation and Generation for Video Prediction<br>
+作者：Hang Gao, Huazhe Xu, Qi-Zhi Cai, Ruth Wang, Fisher Yu, Trevor Darrell<br>
+论文链接：https://arxiv.org/pdf/1812.00452.pdf<br><br>
+
+88.An Empirical Study of Spatial Attention Mechanisms in Deep Networks<br>
+作者：Xizhou Zhu, Dazhi Cheng, Zheng Zhang, Stephen Lin, Jifeng Dai<br>
+论文链接：https://arxiv.org/pdf/1904.05873.pdf<br><br>
+
+87.Fashion++: Minimal Edits for Outfit Improvement<br>
+作者：Wei-Lin Hsiao, Isay Katsman, Chao-Yuan Wu, Devi Parikh, Kristen Grauman<br>
+论文链接：https://arxiv.org/pdf/1904.09261.pdf<br><br>
+
+86.Align2Ground: Weakly Supervised Phrase Grounding Guided by Image-Caption Alignment<br>
+作者：Samyak Datta, Karan Sikka, Anirban Roy, Karuna Ahuja, Devi Parikh, Ajay Divakaran<br>
+论文链接：https://arxiv.org/pdf/1903.11649.pdf<br><br>
+
+85.Taking a HINT: Leveraging Explanations to Make Vision and Language Models More Grounded<br>
+作者：Ramprasaath R. Selvaraju, Stefan Lee, Yilin Shen, Hongxia Jin, Dhruv Batra, Devi Parikh<br>
+论文链接：https://arxiv.org/pdf/1902.03751.pdf<br><br>
+
+84.SplitNet: Sim2Sim and Task2Task Transfer for Embodied Visual Navigation<br>
+作者：Daniel Gordon, Abhishek Kadian, Devi Parikh, Judy Hoffman, Dhruv Batra<br>
+论文链接：https://arxiv.org/pdf/1905.07512.pdf<br><br>
+
+83.Habitat: A Platform for Embodied AI Research ( Oral ) <br>
+作者：Manolis Savva, Abhishek Kadian, Oleksandr Maksymets, Yili Zhao, Erik Wijmans, Bhavana Jain, Julian Straub, Jia Liu, Vladlen Koltun, Jitendra Malik, Devi Parikh, Dhruv Batra<br>
+论文链接：https://arxiv.org/abs/1904.01201<br><br>
+
+82.EM-Fusion: Dynamic Object-Level SLAM with Probabilistic Data Association<br>
+作者：Michael Strecke, Jörg Stückler<br>
+论文链接：https://arxiv.org/abs/1904.11781<br><br>
+
+81.Texture Fields: Learning Texture Representations in Function Space<br>
+作者：Michael Oechsle, Lars Mescheder, Michael Niemeyer, Thilo Strauss, Andreas Geiger<br>
+论文链接：https://arxiv.org/abs/1905.07259<br><br>
+
+80.AMASS: Archive of Motion Capture as Surface Shapes<br>
+作者：Naureen Mahmood, Nima Ghorbani, Nikolaus F. Troje, Gerard Pons-Moll, Michael J. Black<br>
+论文链接：https://arxiv.org/abs/1904.03278<br><br>
+
+79.End-to-end Learning for Graph Decomposition<br>
+作者：Jie Song, Bjoern Andres, Michael Black, Otmar Hilliges, Siyu Tang<br>
+论文链接：https://arxiv.org/pdf/1812.09737.pdf<br><br>
+
 78.Towards Multi-pose Guided Virtual Try-on Network <br>
 作者：Haoye Dong, Xiaodan Liang, Bochao Wang, Hanjiang Lai, Jia Zhu, Jian Yin <br>
 论文链接：https://arxiv.org/abs/1902.11026 <br>
 
 <br>
-77.Learning to Reconstruct 3D Manhattan Wireframes from a Single Image <br>
+77.Learning to Reconstruct 3D Manhattan Wireframes from a Single Image ( Oral )<br>
 作者：Yichao Zhou, Haozhi Qi, Yuexiang Zhai, Qi Sun, Zhili Chen, Li-Yi Wei, Yi Ma <br>
 论文链接：https://arxiv.org/abs/1905.07482 <br>
 
@@ -34,11 +123,13 @@ Github链接：https://github.com/daniilidis-group/emvn <br>
 论文链接：https://arxiv.org/abs/1905.01723 <br>
 Github链接：https://github.com/nvlabs/FUNIT/ <br>
 项目链接：http://www.cs.cornell.edu/~xhuang/publication/funit/ <br><br>
+
 73.Scoot: A Perceptual Metric for Facial Sketches <br>
 作者：Deng-Ping Fan, ShengChuan Zhang, Yu-Huan Wu, Yun Liu, Ming-Ming Cheng, Bo Ren, Paul L Rosin, Rongrong Ji <br>
 论文链接：http://dpfan.net/wp-content/uploads/FaceSketch.pdf <br>
 Github链接：http://dpfan.net/wp-content/uploads/Scoot.zip <br>
 项目链接：http://dpfan.net/Scoot/ <br><br>
+
 72.Improving Adversarial Robustness via Guided Complement Entropy <br>
 作者：Hao-Yun Chen*, Jhao-Hong Liang*, Shih-Chieh Chang, Jia-Yu Pan, Yu-Ting Chen, Wei Wei, Da-Cheng Juan. <br>
 论文链接：https://arxiv.org/abs/1903.09799 <br>
@@ -54,35 +145,43 @@ Github链接：https://github.com/stevenygd/PointFlow <br>
 作者：Riccardo Volpi, Vittorio Murino <br>
 论文链接：https://arxiv.org/abs/1903.11900 <br>
 Github链接：https://github.com/ricvolpi/domain-shift-robustness <br><br>
+
 69.Coherent Semantic Attention for Image Inpainting <br>
 作者：Hongyu Liu, Bin Jiang, Yi Xiao, Chao Yang <br>
 论文链接：https://arxiv.org/abs/1905.12384 <br>
 <br>
+
 68.Learning to Paint with Model-based Deep Reinforcement Learning <br>
 作者：Zhewei Huang, Wen Heng, Shuchang Zhou <br>
 论文链接：https://arxiv.org/abs/1903.04411 <br>
 Github链接：https://github.com/hzwer/ICCV2019-LearningToPaint <br><br>
+
 67.LayoutVAE: Stochastic Scene Layout Generation from a Label Set <br>
 作者：Akash Abdu Jyothi, Thibaut Durand, Jiawei He, Leonid Sigal, Greg Mori <br>
 论文链接：https://arxiv.org/abs/1907.10719 <br>
 <br>
+
 66.Co-Evolutionary Compression for Unpaired Image Translation <br>
 作者：Han Shu, Yunhe Wang, Xu Jia, Kai Han, Hanting Chen, Chunjing Xu, Qi Tian, Chang Xu <br>
 论文链接：https://arxiv.org/abs/1907.10804 <br>
 <br>
+
 65.Enhancing Adversarial Example Transferability with an Intermediate Level Attack <br>
 作者：Qian Huang, Isay Katsman, Horace He, Zeqi Gu, Serge Belongie, Ser-Nam Lim <br>
 论文链接：https://arxiv.org/abs/1907.10823 <br>
 <br>
+
 64.Simultaneous multi-view instance detection with learned geometric soft-constraints <br>
 作者：Ahmed Samy Nassar, Sebastien Lefevre, Jan D. Wegner <br>
 论文链接：https://arxiv.org/abs/1907.10892 <br>
 <br>
+
 63.Learnable Triangulation of Human Pose（Oral)<br>
 作者：Karim Iskakov, Egor Burkov, Victor Lempitsky, Yury Malkov <br>
 论文链接：https://arxiv.org/abs/1905.05754 <br>
 Github链接：https://github.com/karfly/learnable-triangulation-pytorch <br>
 项目链接：https://saic-violet.github.io/learnable-triangulation/ <br><br>
+
 62.Gated2Depth: Real-time Dense Lidar from Gated Images <br>
 作者：Tobias Gruber, Frank Julca-Aguilar,Mario Bijelic,Werner Ritter,Klaus Dietmayer,Felix Heide <br>
 论文链接：https://www.cs.princeton.edu/~fheide/papers/Gated2Depth_preprint.pdf <br>
@@ -255,7 +354,7 @@ Github链接：https://github.com/felipecode/coiltraine/blob/master/docs/explori
 24.Tex2Shape: Detailed Full Human Body Geometry from a Single Image <br>
 作者：Thiemo Alldieck, Gerard Pons-Moll, Christian Theobalt, Marcus Magnor <br>
 论文链接：https://arxiv.org/abs/1904.08645 <br>
-Github链接：https://github.com/thmoa/tex2shape <br>
+Github链接：https://github.com/thmoa/tex2shape <br><br>
 23.Semi-supervised Domain Adaptation via Minimax Entropy <br>
 作者：Kuniaki Saito, Donghyun Kim, Stan Sclaroff, Trevor Darrell, Kate Saenko <br>
 论文链接：https://arxiv.org/abs/1904.06487 <br>
@@ -268,12 +367,15 @@ Github链接：https://github.com/thmoa/tex2shape <br>
 作者：Nilesh Kulkarni, Abhinav Gupta, Shubham Tulsiani <br>
 论文链接：https://arxiv.org/abs/1907.10043 <br>
 项目链接：https://nileshkulkarni.github.io/csm/ <br><br>
+
 20.Incremental Class Discovery for Semantic Segmentation with RGBD Sensing <br>
 作者：Yoshikatsu Nakajima, Byeongkeun Kang, Hideo Saito, Kris Kitani <br>
-论文链接：https://arxiv.org/abs/1907.10008 <br>
+论文链接：https://arxiv.org/abs/1907.10008 <br><br>
+
 19.U4D: Unsupervised 4D Dynamic Scene Understanding <br>
 作者：Armin Mustafa, Chris Russell, Adrian Hilton <br>
-论文链接：https://arxiv.org/abs/1907.09905 <br>
+论文链接：https://arxiv.org/abs/1907.09905 <br><br>
+
 18.BMN: Boundary-Matching Network for Temporal Action Proposal Generation <br>
 作者：Tianwei Lin, Xiao Liu, Xin Li, Errui Ding, Shilei Wen <br>
 论文链接：https://arxiv.org/abs/1907.09702 <br>
