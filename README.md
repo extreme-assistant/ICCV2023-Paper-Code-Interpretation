@@ -186,9 +186,11 @@ Github链接：https://github.com/karfly/learnable-triangulation-pytorch <br>
 作者：Tobias Gruber, Frank Julca-Aguilar,Mario Bijelic,Werner Ritter,Klaus Dietmayer,Felix Heide <br>
 论文链接：https://www.cs.princeton.edu/~fheide/papers/Gated2Depth_preprint.pdf <br>
 <br>
+
 61.Counting with Focus for Free <br>
 作者：Zenglin Shi, Pascal Mettes, Cees G. M. Snoek <br>
 论文链接：https://arxiv.org/abs/1903.12206 <br>
+Github链接：https://github.com/shizenglin/Counting-with-Focus-for-Free <br>
 <br>
 
 60.PU-GAN: a Point Cloud Upsampling Adversarial Network <br>
@@ -262,11 +264,6 @@ Github链接：https://github.com/karfly/learnable-triangulation-pytorch <br>
 作者：Cicero Nogueira dos Santos, Youssef Mroueh, Inkit Padhi, Pierre Dognin <br>
 论文链接：https://arxiv.org/abs/1904.02762v1 <br>
 <br>
-
-
-
-
-
 
 42.Rethinking ImageNet Pre-training <br>
 作者：Kaiming He, Ross Girshick, and Piotr Dollár <br>
