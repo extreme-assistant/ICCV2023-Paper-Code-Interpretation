@@ -3,12 +3,53 @@ ICCV 2019 papers/news<br>
 ICCV2019官网：http://iccv2019.thecvf.com/(共收到4303篇投稿）<br>
 会议时间：2019/10/27-2019/11/2<br>
 
-ICCV2019论文汇总帖子：http://bbs.cvmart.net/topics/447/iccv2019
+ICCV2019论文汇总帖子：http://bbs.cvmart.net/topics/447/iccv2019<br>
 接收结果：[1077篇！ICCV2019接收结果公布，你中了吗？（附7篇论文链接，含Oral)](https://mp.weixin.qq.com/s/v8fpl8gvxF1jA-gYgSci1w)<br>
 接收论文ID查看链接：https://docs.google.com/document/d/1ip33oABDWYT9ic7j6NSjcmj67P0BwSMKUJhQpiMjW2E/edit <br>
 ICCV2019论文下载及接收ID文档百度云链接<br>链接:https://pan.baidu.com/s/1yeA8qNkkb92Z0vA-8h2FTg  密码:nynu<br><br>
 
 ICCV2019论文抢先读：(感谢 [@chongruo](https://github.com/chongruo) [@wwwzxoe303com](https://github.com/wwwzxoe303com) [@wangg12](https://github.com/wangg12)) <br>
+
+108.Camera Distance-aware Top-down Approach for 3D Multi-person Pose Estimation from a Single RGB Image <br>
+作者：Gyeongsik Moon, Ju Yong Chang, Kyoung Mu Lee <br>
+论文链接：https://arxiv.org/abs/1907.11346 <br>
+Github链接：https://github.com/mks0601/3DMPPE_ROOTNET_RELEASE <br>
+<br>
+107.SceneGraphNet: Neural Message Passing for 3D Indoor Scene Augmentation <br>
+作者：Yang Zhou, Zachary While, Evangelos Kalogerakis <br>
+论文链接：https://arxiv.org/abs/1907.11308 <br>
+
+<br>
+106.On the Design of Black-box Adversarial Examples by Leveraging Gradient-free Optimization and Operator Splitting Method <br>
+作者：Pu Zhao, Sijia Liu, Pin-Yu Chen, Nghia Hoang, Kaidi Xu, Bhavya Kailkhura, Xue Lin <br>
+论文链接：https://arxiv.org/abs/1907.11684 <br>
+
+<br>
+105.Goal-Driven Sequential Data Abstraction <br>
+作者：Umar Riaz Muhammad, Yongxin Yang, Timothy M. Hospedales, Tao Xiang, Yi-Zhe Song <br>
+论文链接：https://arxiv.org/abs/1907.12336 <br>
+
+<br>
+104.Recursive Cascaded Networks for Unsupervised Medical Image Registration <br>
+作者： Shengyu Zhao, Yue Dong, Eric I-Chao Chang, Yan Xu <br>
+论文链接：https://arxiv.org/abs/1907.12353 <br>
+
+<br>
+103.Learn to Scale: Generating Multipolar Normalized Density Map for Crowd Counting <br>
+作者：Chenfeng Xu, Kai Qiu, Jianlong Fu, Song Bai, Yongchao Xu, Xiang Bai <br>
+论文链接：https://arxiv.org/abs/1907.12428 <br>
+
+<br>
+102.HoloGAN: Unsupervised learning of 3D representations from natural images <br>
+作者：Thu Nguyen-Phuoc, Chuan Li, Lucas Theis, Christian Richardt, Yong-Liang Yang <br>
+论文链接：https://arxiv.org/abs/1904.01326 <br>
+项目链接：https://www.monkeyoverflow.com/#/hologan-unsupervised-learning-of-3d-representations-from-natural-images/ <br><br>
+101.MetaPruning: Meta Learning for Automatic Neural Network Channel Pruning <br>
+作者：Zechun Liu, Haoyuan Mu, Xiangyu Zhang, Zichao Guo, Xin Yang, Tim Kwang-Ting Cheng, Jian Sun <br>
+论文链接：https://arxiv.org/abs/1903.10258 <br>
+
+<br>
+
 
 100.FrameNet: Learning Local Canonical Frames of 3D Surfaces from a Single RGB Image<br>
 作者：Jingwei Huang, Yichao Zhou, Thomas Funkhouser, Leonidas Guibas<br>
