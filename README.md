@@ -10,6 +10,43 @@ ICCV2019论文下载及接收ID文档百度云链接<br>链接:https://pan.baidu
 
 ICCV2019论文抢先读：(感谢 [@chongruo](https://github.com/chongruo) [@wwwzxoe303com](https://github.com/wwwzxoe303com) [@wangg12](https://github.com/wangg12)) <br>
 
+115.Optimizing the F-measure for Threshold-free Salient Object Detection <br>
+作者：Kai Zhao, Shanghua Gao, Wenguan Wang, Ming-ming Cheng <br>
+论文链接：http://data.kaizhao.net/publications/iccv2019fmeasure.pdf <br>
+Github链接：https://github.com/zeakey/iccv2019-fmeasure <br>
+项目链接：http://kaizhao.net/fmeasure <br><br>
+114.Multi-Angle Point Cloud-VAE: Unsupervised Feature Learning for 3D Point Clouds from Multiple Angles by Joint Self-Reconstruction and Half-to-Half Prediction <br>
+作者：Zhizhong Han, Xiyang Wang, Yu-Shen Liu, Matthias Zwicker <br>
+论文链接：https://arxiv.org/abs/1907.12704 <br>
+
+<br>
+113.Temporal Attentive Alignment for Large-Scale Video Domain Adaptation <br>
+作者：Min-Hung Chen, Zsolt Kira, Ghassan AlRegib, Jaekwon Woo, Ruxin Chen, Jian Zheng <br>
+论文链接：https://arxiv.org/abs/1907.12743 <br>
+Github链接：http://github.com/cmhungsteve/TA3N <br>
+<br>
+112.Orientation-aware Semantic Segmentation on Icosahedron Spheres <br>
+作者：Chao Zhang, Stephan Liwicki, William Smith, Roberto Cipolla <br>
+论文链接：https://arxiv.org/abs/1907.12849 <br>
+
+<br>
+111.EMPNet: Neural Localisation and Mapping using Embedded Memory Points <br>
+作者：Gil Avraham, Yan Zuo, Thanuja Dharmasiri, Tom Drummond <br>
+论文链接：https://arxiv.org/abs/1907.13268 <br>
+
+<br>
+110.Multi-Agent Reinforcement Learning Based Frame Sampling for Effective Untrimmed Video Recognition (Oral)<br>
+作者：Wenhao Wu, Dongliang He, Xiao Tan, Shifeng Chen, Shilei Wen <br>
+论文链接：https://arxiv.org/abs/1907.13369 <br>
+
+<br>
+109.Expectation-Maximization Attention Networks for Semantic Segmentation (Oral)br>
+作者： Xia Li, Zhisheng Zhong, Jianlong Wu, Yibo Yang, Zhouchen Lin, Hong Liu <br>
+论文链接：https://arxiv.org/abs/1907.13426 <br>
+
+<br>
+
+
 108.Camera Distance-aware Top-down Approach for 3D Multi-person Pose Estimation from a Single RGB Image <br>
 作者：Gyeongsik Moon, Ju Yong Chang, Kyoung Mu Lee <br>
 论文链接：https://arxiv.org/abs/1907.11346 <br>
