@@ -9,11 +9,122 @@ ICCV2019论文分类汇总贴：http://bbs.cvmart.net/topics/551/iccv2019c<br>
 ICCV2019论文下载及接收ID文档百度云链接<br>链接:https://pan.baidu.com/s/1yeA8qNkkb92Z0vA-8h2FTg  密码:nynu<br><br>
 
 ICCV2019论文抢先读：(感谢 [@chongruo](https://github.com/chongruo) [@wwwzxoe303com](https://github.com/wwwzxoe303com) [@wangg12](https://github.com/wangg12)) [Fangget](https://github.com/FangGet) <br>
+
+191.Facial Details Synthesis From Single Input Image（Oral ）<br>
+作者：Anpei Chen*, Zhang Chen*, Guli Zhang, Ziheng Zhang, Kenny Mitchell, Jingyi Yu <br>
+论文链接：https://arxiv.org/abs/1903.10873  <br>
+Github链接： https://github.com/apchenstu/Facial_Details_Synthesis <br>
+<br>
+190.SCRDet: Towards More Robust Detection for Small, Cluttered and Rotated Objects <br>
+作者：Xue Yang, Jirui Yang, Junchi Yan, Yue Zhang, Tengfei Zhang, Zhi Guo, Sun Xian, Kun Fu <br>
+论文链接：https://arxiv.org/abs/1811.07126 <br>
+Github链接：https://github.com/DetectionTeamUCAS <br>
+<br>
+189.Larger Norm More Transferable: An Adaptive Feature Norm Approach for Unsupervised Domain Adaptation <br>
+作者：Ruijia Xu, Guanbin Li, Jihan Yang, Liang Lin <br>
+论文链接：https://arxiv.org/abs/1811.07456 <br>
+
+<br>
+188.DUP-Net: Denoiser and Upsampler Network for 3D Adversarial Point Clouds Defense <br>
+作者： Hang Zhou, Kejiang Chen, Weiming Zhang, Han Fang, Wenbo Zhou, Nenghai Yu <br>
+论文链接：https://arxiv.org/abs/1812.11017 <br>
+
+<br>
+187.Closed-Form Optimal Two-View Triangulation Based on Angular Errors <br>
+作者：Seong Hun Lee, Javier Civera <br>
+论文链接：https://arxiv.org/abs/1903.09115 <br>
+
+<br>
+186.Overcoming Catastrophic Forgetting with Unlabeled Data in the Wild <br>
+作者：Kibok Lee, Kimin Lee, Jinwoo Shin, Honglak Lee <br>
+论文链接：https://arxiv.org/abs/1903.12648 <br>
+Github链接：https://github.com/kibok90/iccv2019-inc <br>
+<br>
+185.Learning Combinatorial Embedding Networks for Deep Graph Matching <br>
+作者：Runzhong Wang, Junchi Yan, Xiaokang Yang <br>
+论文链接：https://arxiv.org/abs/1904.00597 <br>
+
+<br>
+184.A Novel Unsupervised Camera-aware Domain Adaptation Framework for Person Re-identification <br>
+作者：Lei Qi, Lei Wang, Jing Huo, Luping Zhou, Yinghuan Shi, Yang Gao <br>
+论文链接：https://arxiv.org/abs/1904.03425 <br>
+
+<br>
+183.PR Product: A Substitute for Inner Product in Neural Networks（Oral ）<br>
+作者：Zhennan Wang, Wenbin Zou, Chen Xu <br>
+论文链接：https://arxiv.org/abs/1904.13148 <br>
+Github链接：https://github.com/wzn0828/PR_Product <br>
+<br>
+182.Remote Heart Rate Measurement from Highly Compressed Facial Videos: an End-to-end Deep Learning Solution with Video Enhancement <br>
+作者：Zitong Yu, Wei Peng, Xiaobai Li, Xiaopeng Hong, Guoying Zhao <br>
+论文链接：https://arxiv.org/abs/1907.11921 <br>
+
+<br>
+181.Cascaded Context Pyramid for Full-Resolution 3D Semantic Scene Completion（Oral ）<br>
+作者：Pingping Zhang, Wei Liu, Yinjie Lei, Huchuan Lu, Xiaoyun Yang <br>
+论文链接：https://arxiv.org/abs/1908.00382 <br>
+
+<br>
+180.Symmetry-constrained Rectification Network for Scene Text Recognition <br>
+作者：MingKun Yang, Yushuo Guan, Minghui Liao, Xin He, Kaigui Bian, Song Bai, Cong Yao, Xiang Bai <br>
+论文链接：https://arxiv.org/abs/1908.01957 <br>
+
+<br>
+179.STM: SpatioTemporal and Motion Encoding for Action Recognition <br>
+作者：Boyuan Jiang, Mengmeng Wang, Weihao Gan, Wei Wu, Junjie Yan <br>
+论文链接：https://arxiv.org/abs/1908.02486 <br>
+
+<br>
+178.Explicit Shape Encoding for Real-Time Instance Segmentation <br>
+作者：Wenqiang Xu, Haiyang Wang, Fubo Qi, Cewu Lu <br>
+论文链接：https://arxiv.org/abs/1908.04067 <br>
+
+<br>
+177.Interpolated Convolutional Networks for 3D Point Cloud Understanding（Oral ）<br>
+作者： Jiageng Mao, Xiaogang Wang, Hongsheng Li <br>
+论文链接：https://arxiv.org/abs/1908.04512 <br>
+
+<br>
+176.Memory-Based Neighbourhood Embedding for Visual Recognition（Oral ）<br>
+作者：Suichan Li, Dapeng Chen, Bin Liu, Nenghai Yu, Rui Zhao <br>
+论文链接：https://arxiv.org/abs/1908.04992 <br>
+
+<br>
+175.Few-Shot Learning with Global Class Representations <br>
+作者：Tiange Luo, Aoxue Li, Tao Xiang, Weiran Huang, Liwei Wang <br>
+论文链接：https://arxiv.org/abs/1908.05257 <br>
+
+<br>
+174.Learning Trajectory Dependencies for Human Motion PredictionOral <br>
+作者：Wei Mao, Miaomiao Liu, Mathieu Salzmann, Hongdong Li <br>
+论文链接：https://arxiv.org/abs/1908.05436 <br>
+Github链接：https://github.com/wei-mao-2019/LearnTrajDep <br>
+<br>
+173.Symmetric Cross Entropy for Robust Learning with Noisy Labels <br>
+作者：Yisen Wang, Xingjun Ma, Zaiyi Chen, Yuan Luo, Jinfeng Yi, James Bailey <br>
+论文链接：https://arxiv.org/abs/1908.06112 <br>
+
+<br>
+172.From Open Set to Closed Set: Counting Objects by Spatial Divide-and-Conquer <br>
+作者：Haipeng Xiong, Hao Lu, Chengxin Liu, Liang Liu, Zhiguo Cao, Chunhua Shen <br>
+论文链接：https://arxiv.org/abs/1908.06473 <br>
+Github链接：https://github. com/xhp-hust-2018-2011/S-DCNet <br>
+<br>
+171.Human Mesh Recovery from Monocular Images via a Skeleton-disentangled Representation <br>
+作者：Sun Yu, Ye Yun, Liu Wu, Gao Wenpeng, Fu YiLi, Mei Tao <br>
+论文链接：https://arxiv.org/abs/1908.07172 <br>
+
+<br>
+170.Towards High-Resolution Salient Object Detection <br>
+作者：Yi Zeng, Pingping Zhang, Jianming Zhang, Zhe Lin, Huchuan Lu <br>
+论文链接：https://arxiv.org/abs/1908.07274 <br>
+Github链接：https://github.com/yi94code/HRSOD <br>
+<br>
+
 169.Domain Adaptation for Structured Output via Discriminative Patch Representations (Oral)<br>
 作者：Yi-Hsuan Tsai, Kihyuk Sohn, Samuel Schulter, Manmohan Chandraker <br>
 论文链接：https://arxiv.org/abs/1901.05427 <br>
 
-<br>
 
 <br>
 168.DADA: Depth-Aware Domain Adaptation in Semantic Segmentation <br>
