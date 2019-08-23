@@ -9,6 +9,18 @@ ICCV2019论文分类汇总贴：http://bbs.cvmart.net/topics/551/iccv2019c<br>
 ICCV2019论文下载及接收ID文档百度云链接<br>链接:https://pan.baidu.com/s/1yeA8qNkkb92Z0vA-8h2FTg  密码:nynu<br><br>
 
 ICCV2019论文抢先读：(感谢 [@chongruo](https://github.com/chongruo) [@wwwzxoe303com](https://github.com/wwwzxoe303com) [@wangg12](https://github.com/wangg12)) [Fangget](https://github.com/FangGet) <br>
+169.Domain Adaptation for Structured Output via Discriminative Patch Representations (Oral)<br>
+作者：Yi-Hsuan Tsai, Kihyuk Sohn, Samuel Schulter, Manmohan Chandraker <br>
+论文链接：https://arxiv.org/abs/1901.05427 <br>
+
+<br>
+
+<br>
+168.DADA: Depth-Aware Domain Adaptation in Semantic Segmentation <br>
+作者：Tuan-Hung Vu, Himalaya Jain, Maxime Bucher, Matthieu Cord, Patrick Pérez <br>
+论文链接：https://arxiv.org/abs/1904.01886 <br>
+
+<br>
 167.Deep Non-Rigid Structure from Motion（Oral） <br>
 作者：Chen Kong, Simon Lucey <br>
 论文链接：https://arxiv.org/abs/1908.00052 <br>
