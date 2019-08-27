@@ -8,9 +8,126 @@ ICCV2019论文分类汇总贴：http://bbs.cvmart.net/topics/551/iccv2019c<br>
 接收论文ID查看链接：https://docs.google.com/document/d/1ip33oABDWYT9ic7j6NSjcmj67P0BwSMKUJhQpiMjW2E/edit <br>
 ICCV2019论文下载及接收ID文档百度云链接<br>链接:https://pan.baidu.com/s/1yeA8qNkkb92Z0vA-8h2FTg  密码:nynu<br><br>
 
-ICCV2019论文抢先读：(感谢 [@chongruo](https://github.com/chongruo) [@wwwzxoe303com](https://github.com/wwwzxoe303com) [@wangg12](https://github.com/wangg12)) [Fangget](https://github.com/FangGet) <br>
+ICCV2019论文抢先读：(感谢 [@chongruo](https://github.com/chongruo) [@wwwzxoe303com](https://github.com/wwwzxoe303com) [@wangg12](https://github.com/wangg12) [@Fangget](https://github.com/FangGet) ) <br><br>
+214.ViCo: Word Embeddings from Visual Co-occurrences <br>
+作者：Tanmay Gupta, Alexander Schwing, Derek Hoiem <br>
+论文链接：https://arxiv.org/abs/1908.08527 <br>
 
-191.Facial Details Synthesis From Single Input Image（Oral ）<br>
+项目链接：http://tanmaygupta.info/vico/ <br><br>
+213.Sequential Latent Spaces for Modeling the Intention During Diverse Image Captioning <br>
+作者：Jyoti Aneja, Harsh Agrawal, Dhruv Batra, Alexander Schwing <br>
+论文链接：https://arxiv.org/abs/1908.08529 <br>
+
+<br>
+212.Learning Similarity Conditions Without Explicit Supervision <br>
+作者：Reuben Tan, Mariya I. Vasileva, Kate Saenko, Bryan A. Plummer <br>
+论文链接：https://arxiv.org/abs/1908.08589 <br>
+
+<br>
+211.Shadow Removal via Shadow Image Decomposition <br>
+作者：Hieu Le, Dimitris Samaras <br>
+论文链接：https://arxiv.org/abs/1908.08628 <br>
+
+<br>
+210.Crowd Counting with Deep Structured Scale Integration Network <br>
+作者：Lingbo Liu, Zhilin Qiu, Guanbin Li, Shufan Liu, Wanli Ouyang, Liang Lin <br>
+论文链接：https://arxiv.org/abs/1908.08692 <br>
+
+<br>
+209.Sequential Adversarial Learning for Self-Supervised Deep Visual Odometry <br>
+作者：Shunkai Li, Fei Xue, Xin Wang, Zike Yan, Hongbin Zha <br>
+论文链接：https://arxiv.org/abs/1908.08704 <br>
+
+<br>
+208.Onion-Peel Networks for Deep Video Completion <br>
+作者：Seoung Wug Oh, Sungho Lee, Joon-Young Lee, Seon Joo Kim <br>
+论文链接：https://arxiv.org/abs/1908.08718 <br>
+
+<br>
+207.Learning Filter Basis for Convolutional Neural Network Compression <br>
+作者：Yawei Li, Shuhang Gu, Luc Van Gool, Radu Timofte <br>
+论文链接：https://arxiv.org/abs/1908.08932 <br>
+Github链接：https://github.com/ofsoundof/learning_filter_basis <br>
+<br>
+206.Where Is My Mirror? <br>
+作者：Xin Yang, Haiyang Mei, Ke Xu, Xiaopeng Wei, Baocai Yin, Rynson W. H. Lau <br>
+论文链接：https://arxiv.org/abs/1908.09101 <br>
+
+项目链接：https://mhaiyang.github.io/ICCV2019_MirrorNet/index.html <br><br>
+205.Efficient Learning on Point Clouds with Basis Point Sets <br>
+作者：Sergey Prokudin, Christoph Lassner, Javier Romero <br>
+论文链接：https://arxiv.org/abs/1908.09186 <br>
+
+<br>
+204.Dynamic Kernel Distillation for Efficient Pose Estimation in Videos <br>
+作者：Xuecheng Nie, Yuncheng Li, Linjie Luo, Ning Zhang, Jiashi Feng <br>
+论文链接：https://arxiv.org/abs/1908.09216 <br>
+
+<br>
+203.Single-Stage Multi-Person Pose Machines <br>
+作者：Xuecheng Nie, Jianfeng Zhang, Shuicheng Yan, Jiashi Feng <br>
+论文链接：https://arxiv.org/abs/1908.09220 <br>
+
+<br>
+202.Towards Unconstrained End-to-End Text Spotting（Oral ）<br>
+作者：Siyang Qin, Alessandro Bissacco, Michalis Raptis, Yasuhisa Fujii, Ying Xiao <br>
+论文链接：https://arxiv.org/abs/1908.09231 <br>
+
+<br>
+201.Towards Unsupervised Image Captioning with Shared Multimodal Embeddings <br>
+作者：Iro Laina, Christian Rupprecht, Nassir Navab <br>
+论文链接：https://arxiv.org/abs/1908.09317 <br>
+
+<br>
+200.advPattern: Physical-World Attacks on Deep Person Re-Identification via Adversarially Transformable Patterns <br>
+作者：Zhibo Wangy, Siyan Zhengy, Mengkai Songy, Qian Wangy, Alireza Rahimpourz, Hairong Qi <br>
+论文链接：https://arxiv.org/abs/1908.09327 <br>
+
+<br>
+199.Shape-Aware Human Pose and Shape Reconstruction Using Multi-View Images <br>
+作者：Junbang Liang, Ming C. Lin <br>
+论文链接：https://arxiv.org/abs/1908.09464 <br>
+
+<br>
+198.Relation Distillation Networks for Video Object Detection <br>
+作者： Jiajun Deng, Yingwei Pan, Ting Yao, Wengang Zhou, Houqiang Li, Tao Mei <br>
+论文链接：https://arxiv.org/abs/1908.09511 <br>
+
+<br>
+197.Object-Driven Multi-Layer Scene Decomposition From a Single Image <br>
+作者：Helisa Dhamo, Nassir Navab, Federico Tombari <br>
+论文链接：https://arxiv.org/abs/1908.09521 <br>
+
+<br>
+196.Non-local Recurrent Neural Memory for Supervised Sequence Modeling（Oral） <br>
+作者：Canmiao Fu, Wenjie Pei, Qiong Cao, Chaopeng Zhang, Yong Zhao, Xiaoyong Shen, Yu-Wing Tai <br>
+论文链接：https://arxiv.org/abs/1908.09535 <br>
+
+<br>
+195.Embarrassingly Simple Binary Representation Learning <br>
+作者：Yuming Shen, Jie Qin, Jiaxin Chen, Li Liu, Fan Zhu <br>
+论文链接：https://arxiv.org/abs/1908.09573 <br>
+
+<br>
+194.Stochastic Filter Groups for Multi-Task CNNs: Learning Specialist and Generalist Convolution Kernels（Oral ）<br>
+作者：Felix J. S. Bragman, Ryutaro Tanno, Sebastien Ourselin, Daniel C. Alexander, M. Jorge Cardoso <br>
+论文链接：https://arxiv.org/abs/1908.09597 <br>
+
+<br>
+193.SPGNet: Semantic Prediction Guidance for Scene Parsing <br>
+作者：Bowen Cheng, Liang-Chieh Chen, Yunchao Wei, Yukun Zhu, Zilong Huang, Jinjun Xiong, Thomas Huang, Wen-Mei Hwu, Honghui Shi <br>
+论文链接：https://arxiv.org/abs/1908.09798 <br>
+
+<br>
+192.Confidence Regularized Self-Training <br>
+作者：Yang Zou, Zhiding Yu, Xiaofeng Liu, B. V. K. Vijaya Kumar, Jinsong Wang <br>
+论文链接：https://arxiv.org/abs/1908.09822 <br>
+Github链接：https://github.com/yzou2/CRST <br>
+<br>
+
+
+
+191.Photo-Realistic Facial Details Synthesis from Single Image(Oral) <br>
 作者：Anpei Chen*, Zhang Chen*, Guli Zhang, Ziheng Zhang, Kenny Mitchell, Jingyi Yu <br>
 论文链接：https://arxiv.org/abs/1903.10873  <br>
 Github链接： https://github.com/apchenstu/Facial_Details_Synthesis <br>
