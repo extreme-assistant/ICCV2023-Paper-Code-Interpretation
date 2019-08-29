@@ -9,6 +9,10 @@ ICCV2019论文分类汇总贴：http://bbs.cvmart.net/topics/551/iccv2019c<br>
 ICCV2019论文下载及接收ID文档百度云链接<br>链接:https://pan.baidu.com/s/1yeA8qNkkb92Z0vA-8h2FTg  密码:nynu<br><br>
 
 ICCV2019论文抢先读：(感谢 [@chongruo](https://github.com/chongruo) [@wwwzxoe303com](https://github.com/wwwzxoe303com) [@wangg12](https://github.com/wangg12) [@Fangget](https://github.com/FangGet) ) <br><br>
+215. Clustered Object Detection in Aerial Images
+作者：Fan Yang, Heng Fan, Peng Chu, Erik Blasch, Haibin Ling <br>
+论文链接：https://arxiv.org/pdf/1904.08008.pdf <br>
+
 214.ViCo: Word Embeddings from Visual Co-occurrences <br>
 作者：Tanmay Gupta, Alexander Schwing, Derek Hoiem <br>
 论文链接：https://arxiv.org/abs/1908.08527 <br>
