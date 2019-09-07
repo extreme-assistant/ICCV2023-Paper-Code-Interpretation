@@ -806,242 +806,239 @@ Github链接：https://github.com/shizenglin/Counting-with-Focus-for-Free <br>
 作者：Nicholas Rhinehart, Rowan McAllister, Kris Kitani, Sergey Levine<br>
 论文链接：https://arxiv.org/pdf/1905.01296.pdf<br>
 项目链接：https://sites.google.com/view/precog<br><br>
-53.Lifelong GAN: Continual Learning for Conditional Image Generation <br>
+
+53. Lifelong GAN: Continual Learning for Conditional Image Generation <br>
 作者：Mengyao Zhai, Lei Chen, Fred Tung, Jiawei He, Megha Nawhal, Greg Mori <br>
 论文链接：https://arxiv.org/abs/1907.10107 <br>
-<br>
-52.Cap2Det: Learning to Amplify Weak Caption Supervision for Object Detection <br>
+
+52. Cap2Det: Learning to Amplify Weak Caption Supervision for Object Detection <br>
 作者：Keren Ye, Mingda Zhang, Adriana Kovashka, Wei Li, Danfeng Qin, Jesse Berent <br>
 论文链接：https://arxiv.org/abs/1907.10164 <br>
-<br>
-51.Towards Adversarially Robust Object Detection <br>
+
+51. Towards Adversarially Robust Object Detection <br>
 作者：Haichao Zhang, Jianyu Wang <br>
 论文链接：https://arxiv.org/abs/1907.10310 <br>
-<br>
-50.6-DOF GraspNet: Variational Grasp Generation for Object Manipulation <br>
+
+50. 6-DOF GraspNet: Variational Grasp Generation for Object Manipulation <br>
 作者：Arsalan Mousavian, Clemens Eppner, Dieter Fox <br>
 论文链接：https://arxiv.org/abs/1905.10520 <br>
-<br>
-49.Analyzing the Variety Loss in the Context of Probabilistic Trajectory Prediction <br>
+
+49. Analyzing the Variety Loss in the Context of Probabilistic Trajectory Prediction <br>
 作者：Luca Anthony Thiede, Pratik Prabhanjan Brahma <br>
 论文链接：https://arxiv.org/abs/1907.10178 <br>
-<br>
-48.DAFL: Data-Free Learning of Student Networks <br>
+
+48. DAFL: Data-Free Learning of Student Networks <br>
 作者：Hanting Chen, Yunhe Wang, Chang Xu, Zhaohui Yang, Chuanjian Liu, Boxin Shi, Chunjing Xu, Chao Xu, Qi Tian <br>
 论文链接：https://arxiv.org/abs/1904.01186 <br>
-<br>
-47.Multi-adversarial Faster-RCNN for Unrestricted Object Detection <br>
+
+47. Multi-adversarial Faster-RCNN for Unrestricted Object Detection <br>
 作者：Zhenwei He, Lei Zhang <br>
 论文链接：https://arxiv.org/abs/1907.10343 <br>
-<br>
-46.Boosting Few-Shot Visual Learning with Self-Supervision <br>
+
+46. Boosting Few-Shot Visual Learning with Self-Supervision <br>
 作者：Spyros Gidaris, Andrei Bursuc, Nikos Komodakis, Patrick Pérez, Matthieu Cord <br>
 论文链接：https://arxiv.org/abs/1906.05186 <br>
-<br>
-45.A Quaternion-based Certifiably Optimal Solution to the Wahba Problem with Outliers <br>
+
+45. A Quaternion-based Certifiably Optimal Solution to the Wahba Problem with Outliers <br>
 作者：Heng Yang, Luca Carlone <br>
 论文链接：https://arxiv.org/abs/1905.12536 <br>
-<br>
-44.Embodied Visual Recognition <br>
+
+44. Embodied Visual Recognition <br>
 作者：Jianwei Yang，Zhile Ren，Mingze Xu，Xinlei Chen，David Crandall，Devi Parikh，Dhruv Batra <br>
 项目链接：https://www.cc.gatech.edu/~jyang375/evr.html <br><br>
-43.Learning Implicit Generative Models by Matching Perceptual Features(Oral) <br>
+
+43. Learning Implicit Generative Models by Matching Perceptual Features(Oral) <br>
 作者：Cicero Nogueira dos Santos, Youssef Mroueh, Inkit Padhi, Pierre Dognin <br>
 论文链接：https://arxiv.org/abs/1904.02762v1 <br>
-<br>
 
-42.Rethinking ImageNet Pre-training <br>
+42. Rethinking ImageNet Pre-training <br>
 作者：Kaiming He, Ross Girshick, and Piotr Dollár <br>
 论文链接：https://arxiv.org/abs/1811.08883 <br><br>
 
-41.TensorMask: A Foundation for Dense Object Segmentation <br>
+41. TensorMask: A Foundation for Dense Object Segmentation <br>
 作者：Xinlei Chen, Ross Girshick, Kaiming He, and Piotr Dollár <br>
 论文链接：https://arxiv.org/abs/1903.12174 <br><br>
 
-40.COCO-GAN: Generation by Parts via Conditional Coordinating(Oral) <br>
+40. COCO-GAN: Generation by Parts via Conditional Coordinating(Oral) <br>
 作者：Chieh Hubert Lin, Chia-Che Chang, Yu-Sheng Chen, Da-Cheng Juan, Wei Wei, Hwann-Tzong Chen <br>
 论文链接：https://arxiv.org/abs/1904.00284 <br>
 Github链接：https://github.com/hubert0527/COCO-GAN <br>
 项目链接：https://hubert0527.github.io/COCO-GAN/ <br><br>
 
-39.SlowFast Networks for Video Recognition(Oral)<br>
+39. SlowFast Networks for Video Recognition(Oral)<br>
 作者：Christoph Feichtenhofer, Haoqi Fan, Jitendra Malik, and Kaiming He <br>
 论文链接：https://arxiv.org/abs/1812.03982 <br>
-<br>
-38.Exploring Randomly Wired Neural Networks for Image Recognition(Oral) <br>
+
+38. Exploring Randomly Wired Neural Networks for Image Recognition(Oral) <br>
 作者：Saining Xie, Alexander Kirillov, Ross Girshick, and Kaiming He <br>
 论文链接：https://arxiv.org/abs/1904.01569 <br>
-<br>
-37.FCOS: Fully Convolutional One-Stage Object Detectio <br>
+
+37. FCOS: Fully Convolutional One-Stage Object Detectio <br>
 作者：Zhi Tian, Chunhua Shen, Hao Chen, Tong He <br>
 论文链接：https://arxiv.org/abs/1904.01355 <br>
 Github链接：https://github.com/tianzhi0549/FCOS/ <br> 论文解读：
 https://mp.weixin.qq.com/s/N93TrVnUuvAgfcoHXevTHw
-<br><br>
 
-36.3D Point Cloud Learning for Large-scale Environment Analysis and Place Recognition<br>
+36. 3D Point Cloud Learning for Large-scale Environment Analysis and Place Recognition<br>
 作者：Zhe Liu, Shunbo Zhou, Chuanzhe Suo, Yingtian Liu, Hesheng Wang, Yun-Hui Liu<br>
 论文链接：https://arxiv.org/abs/1812.07050<br><br>
 
-35.Selectivity or Invariance: Boundary-aware Salient Object Detection<br>
+35. Selectivity or Invariance: Boundary-aware Salient Object Detection<br>
 作者：Jinming Su, Jia Li1, Yu Zhang, Changqun Xia and Yonghong Tian<br>
 论文链接：https://arxiv.org/pdf/1812.10066.pdf<br><br>
 
-34.Can GCNs Go as Deep as CNNs?<br>
+34. Can GCNs Go as Deep as CNNs?<br>
 作者：Guohao Li, Matthias Müller, Ali Thabet, Bernard Ghanem<br>
 论文链接：https://arxiv.org/abs/1904.03751<br>
 GitHub：https://github.com/lightaime/deep_gcns<br><br>
 
-33.Joint Monocular 3D Detection and Tracking<br>
+33. Joint Monocular 3D Detection and Tracking<br>
 作者：Hou-Ning Hu, Qizhi Cai, Dequan Wang, Ji Lin, Min Sun, Philipp Krähenbühl, Trevor Darrell, Fisher Yu<br> 
 论文链接：https://arxiv.org/abs/1811.10742<br>
 项目链接：https://eborboihuc.github.io/Mono-3DT/?fbclid=IwAR1maTNHE5z-vEwAJKIcNEpbMWwBcjWJQ0gEHOwHB-u51w5dfeiZNCh0y-U<br>
 GitHub：https://github.com/ucbdrive/3d-vehicle-tracking<br><br>
 
-32.Point-to-Point Video Generation<br>
+32. Point-to-Point Video Generation<br>
 作者：Tsun-Hsuan Wang, Yen-Chi Cheng, Chieh Hubert Lin, Hwann-Tzong Chen, Min Sun<br>
 论文链接：https://arxiv.org/abs/1904.02912<br>
 项目链接：https://zswang666.github.io/P2PVG-Project-Page/?fbclid=IwAR1Cr-T54keo5zzaWLQuYNQMcPoKzXGr6-YrTDoauW6Hb5bOSwgluZQ3fIE<br><br>
 
-31.Creativity Inspired Zero-Shot Learning<br>
+31. Creativity Inspired Zero-Shot Learning<br>
 作者：Mohamed Elhoseiny, Mohamed Elfeki<br>
 论文链接：https://arxiv.org/abs/1904.01109<br><br>
 
-30.HowTo100M: Learning a Text-Video Embedding by Watching Hundred Million Narrated Video Clips<br>
+30. HowTo100M: Learning a Text-Video Embedding by Watching Hundred Million Narrated Video Clips<br>
 作者：Antoine Miech, Dimitri Zhukov, Jean-Baptiste Alayrac, Makarand Tapaswi, Ivan Laptev, Josef Sivic<br>
 论文链接：https://arxiv.org/abs/1906.03327<br><br>
 
-
-29.Correlation Congruence for Knowledge Distillation <br>
+29. Correlation Congruence for Knowledge Distillation <br>
 作者：Baoyun Peng, Xiao Jin, Jiaheng Liu, Shunfeng Zhou, Yichao Wu, Yu Liu, Dongsheng Li, Zhaoning Zhang <br>
 论文链接：https://arxiv.org/abs/1904.018029 <br>
-<br>
-28.VATEX: A Large-Scale, High-Quality Multilingual Dataset for Video-and-Language Research <br>
+
+28. VATEX: A Large-Scale, High-Quality Multilingual Dataset for Video-and-Language Research <br>
 作者：Xin Wang, Jiawei Wu, Junkun Chen, Lei Li, Yuan-Fang Wang, William Yang Wang <br>
 论文链接：https://arxiv.org/abs/1904.03493 <br>
 项目链接：http://vatex.org/main/index.html <br>
 论文解读：https://mp.weixin.qq.com/s/bOpKXshitpQ1YKE53WUPEw<br><br>
-27.Episodic Training for Domain Generalization <br>
+
+27. Episodic Training for Domain Generalization <br>
 作者：Da Li, Jianshu Zhang, Yongxin Yang, Cong Liu, Yi-Zhe Song, Timothy M. Hospedales <br>
 论文链接：https://arxiv.org/abs/1902.00113 <br><br>
-26.Exploring the Limitations of Behavior Cloning for Autonomous Driving <br>
+
+26. Exploring the Limitations of Behavior Cloning for Autonomous Driving <br>
 作者：Felipe Codevilla, Eder Santana, Antonio M. López, Adrien Gaidon <br>
 论文链接：https://arxiv.org/abs/1904.08980 <br>
 Github链接：https://github.com/felipecode/coiltraine/blob/master/docs/exploring_limitations.md <br>
-<br>
-25.GarNet: A Two-stream Network for Fast and Accurate 3D Cloth Draping <br>
+
+25. GarNet: A Two-stream Network for Fast and Accurate 3D Cloth Draping <br>
 作者：Erhan Gundogdu, Victor Constantin, Amrollah Seifoddini, Minh Dang, Mathieu Salzmann, Pascal Fua <br>
 论文链接：https://arxiv.org/abs/1811.10983v2 <br>
-项目链接：https://cvlab.epfl.ch/research/garment-simulation/garnet/ <br><br>
-24.Tex2Shape: Detailed Full Human Body Geometry from a Single Image <br>
+项目链接：https://cvlab.epfl.ch/research/garment-simulation/garnet/
+
+24. Tex2Shape: Detailed Full Human Body Geometry from a Single Image <br>
 作者：Thiemo Alldieck, Gerard Pons-Moll, Christian Theobalt, Marcus Magnor <br>
 论文链接：https://arxiv.org/abs/1904.08645 <br>
 Github链接：https://github.com/thmoa/tex2shape <br><br>
-23.Semi-supervised Domain Adaptation via Minimax Entropy <br>
+
+23. Semi-supervised Domain Adaptation via Minimax Entropy <br>
 作者：Kuniaki Saito, Donghyun Kim, Stan Sclaroff, Trevor Darrell, Kate Saenko <br>
 论文链接：https://arxiv.org/abs/1904.06487 <br>
-<br>
-22.xR-EgoPose: Egocentric 3D Human Pose from an HMD Camera <br>
+
+22. xR-EgoPose: Egocentric 3D Human Pose from an HMD Camera <br>
 作者：Denis Tome, Patrick Peluse, Lourdes Agapito, Hernan Badino <br>
 论文链接：https://arxiv.org/abs/1907.10045 <br>
-<br>
-21.Canonical Surface Mapping via Geometric Cycle Consistency <br>
+
+21. Canonical Surface Mapping via Geometric Cycle Consistency <br>
 作者：Nilesh Kulkarni, Abhinav Gupta, Shubham Tulsiani <br>
 论文链接：https://arxiv.org/abs/1907.10043 <br>
 项目链接：https://nileshkulkarni.github.io/csm/ <br><br>
 
-20.Incremental Class Discovery for Semantic Segmentation with RGBD Sensing <br>
+20. Incremental Class Discovery for Semantic Segmentation with RGBD Sensing <br>
 作者：Yoshikatsu Nakajima, Byeongkeun Kang, Hideo Saito, Kris Kitani <br>
 论文链接：https://arxiv.org/abs/1907.10008 <br><br>
 
-19.U4D: Unsupervised 4D Dynamic Scene Understanding <br>
+19. U4D: Unsupervised 4D Dynamic Scene Understanding <br>
 作者：Armin Mustafa, Chris Russell, Adrian Hilton <br>
 论文链接：https://arxiv.org/abs/1907.09905 <br><br>
 
-18.BMN: Boundary-Matching Network for Temporal Action Proposal Generation <br>
+18. BMN: Boundary-Matching Network for Temporal Action Proposal Generation <br>
 作者：Tianwei Lin, Xiao Liu, Xin Li, Errui Ding, Shilei Wen <br>
 论文链接：https://arxiv.org/abs/1907.09702 <br>
 
- <br>
-17.Similarity-Preserving Knowledge Distillation <br>
+17. Similarity-Preserving Knowledge Distillation <br>
 作者：Frederick Tung, Greg Mori <br>
 论文链接：https://arxiv.org/abs/1907.09682 <br>
 
- <br>
-16.GA-DAN: Geometry-Aware Domain Adaptation Network for Scene Text Detection and Recognition <br>
+16. GA-DAN: Geometry-Aware Domain Adaptation Network for Scene Text Detection and Recognition <br>
 作者：Fangneng Zhan, Chuhui Xue, Shijian Lu <br>
 论文链接：https://arxiv.org/abs/1907.09653 <br>
- <br>
-15.Deep SR-ITM: Joint Learning of Super-resolution and Inverse Tone-Mapping for 4K UHD HDR Applications(Oral) <br>
+
+15. Deep SR-ITM: Joint Learning of Super-resolution and Inverse Tone-Mapping for 4K UHD HDR Applications(Oral) <br>
 作者：Soo Ye Kim, Jihyong Oh, Munchurl Kim <br>
 论文链接：https://arxiv.org/abs/1904.11176 <br>
 
- <br>
-14.Free-form Video Inpainting with 3D Gated Convolution and Temporal PatchGAN <br>
+14. Free-form Video Inpainting with 3D Gated Convolution and Temporal PatchGAN <br>
 作者：Ya-Liang Chang, Zhe Yu Liu, Kuan-Ying Lee, Winston Hsu <br>
 论文链接：https://arxiv.org/abs/1904.10247 <br>
-Github链接：https://github.com/amjltc295/Free-Form-Video-Inpainting <br>
- <br>
+Github链接：https://github.com/amjltc295/Free-Form-Video-Inpainting
 
-13.Tell, Draw, and Repeat: Generating and modifying images based on continual linguistic instruction<br>
+13. Tell, Draw, and Repeat: Generating and modifying images based on continual linguistic instruction<br>
 作者：Alaaeldin El-Nouby, Shikhar Sharma, Hannes Schulz, Devon Hjelm, Layla El Asri, Samira Ebrahimi Kahou, Yoshua Bengio, Graham W. Taylor<br>
 论文链接：https://arxiv.org/pdf/1811.09845.pdf<br><br>
 
-12.Semantic Adversarial Attacks: Parametric Transformations That Fool Deep Classifiers<br>
+12. Semantic Adversarial Attacks: Parametric Transformations That Fool Deep Classifiers<br>
 作者：Ameya Joshi, Amitangshu Mukherjee, Soumik Sarkar, Chinmay Hegde<br>
 论文链接：https://arxiv.org/abs/1904.08489<br><br>
 
-11.What Would You Expect? Anticipating Egocentric Actions with Rolling-Unrolling LSTMs and Modality Attention<br>
+11. What Would You Expect? Anticipating Egocentric Actions with Rolling-Unrolling LSTMs and Modality Attention<br>
 作者：Antonino Furnari, Giovanni Maria Farinella<br>
 项目链接：https://iplab.dmi.unict.it/rulstm/<br>
 论文链接：https://arxiv.org/pdf/1905.09035.pdf<br>
 GitHub：https://github.com/antoninofurnari/rulstm<br><br>
 
-10.Meta-Sim Learning to Generate Synthetic Datasets (Oral)<br>
+10. Meta-Sim Learning to Generate Synthetic Datasets (Oral)<br>
 作者：Amlan Kar, Aayush Prakash, Ming-Yu Liu, Eric Cameracci, Justin Yuan, Matt Rusiniak, David Acuna, Antonio Torralba, Sanja Fidler<br>
 项目链接：https://nv-tlabs.github.io/meta-sim/<br>
 论文链接：https://arxiv.org/abs/1904.11621<br><br>
 
+9. nocaps: novel object captioning at scale
+作者：Harsh Agrawal, Karan Desai, Yufei Wang, Xinlei Chen, Rishabh Jain, Mark Johnson, Dhruv Batra, Devi Parikh, Stefan Lee, Peter Anderson
+项目链接：https://nocaps.org
+论文链接：https://arxiv.org/abs/1812.08658
 
-9.nocaps: novel object captioning at scale<br>
-作者：Harsh Agrawal, Karan Desai, Yufei Wang, Xinlei Chen, Rishabh Jain, Mark Johnson, Dhruv Batra, Devi Parikh, Stefan Lee, Peter Anderson<br>
-项目链接：https://nocaps.org<br>
-论文链接：https://arxiv.org/abs/1812.08658<br><br>
+8. ThunderNet: Towards Real-time Generic Object Detection(目标检测，国防科大&旷视科技）
+作者：Zheng Qin, Zeming Li, Zhaoning Zhang, Yiping Bao, Gang Yu, Yuxing Peng, Jian Sun
+论文链接：https://arxiv.org/abs/1903.11752
+论文解读：http://bbs.cvmart.net/articles/361
 
-8.ThunderNet: Towards Real-time Generic Object Detection(目标检测，国防科大&旷视科技）<br>
-作者：Zheng Qin, Zeming Li, Zhaoning Zhang, Yiping Bao, Gang Yu, Yuxing Peng, Jian Sun<br>
-论文链接：https://arxiv.org/abs/1903.11752<br>
-论文解读：http://bbs.cvmart.net/articles/361<br><br>
+7. MemorizingNormality to Detect Anomaly: Memory-augmented Deep Autoencoder (MemAE) forUnsupervised Anomaly Detection
+作者：Dong Gong, Lingqiao Liu, Vuong Le, Budhaditya Saha, Moussa Reda Mansour, Svetha Venkatesh, Anton van den Hengel
+项目链接：https://donggong1.github.io/anomdec-memae.html
+论文链接：https://arxiv.org/abs/1904.02639
+GitHub：https://github.com/donggong1/memae-anomaly-detection
 
+6. Scene GraphPrediction with Limited Labels
+作者：Vincent S. Chen, Paroma Varma, Ranjay Krishna, Michael Bernstein, Christopher Re, Li Fei-Fei
+论文链接：https://arxiv.org/abs/1904.11622
+ 
+5. Deep Hough Voting for 3D Object Detection in Point Clouds（Oral）
+作者：Charles R. Qi, Or Litany, Kaiming He, Leonidas J. Guibas
+论文链接：https://arxiv.org/abs/1904.09664
+ 
+4. Variational Adversarial Active Learning（Oral）
+作者：Samarth Sinha, Sayna Ebrahimi, Trevor Darrell
+论文链接：https://arxiv.org/abs/1904.00370
+ 
+3. Ego-Pose Estimation and Forecasting as Real-Time PD Control
+作者：Ye Yuan, Kris Kitani
+论文链接：https://arxiv.org/abs/1906.03173
 
-7.MemorizingNormality to Detect Anomaly: Memory-augmented Deep Autoencoder (MemAE) forUnsupervised Anomaly Detection<br>
-作者：Dong Gong, Lingqiao Liu, Vuong Le, Budhaditya Saha, Moussa Reda Mansour, Svetha Venkatesh, Anton van den Hengel<br>
-项目链接：https://donggong1.github.io/anomdec-memae.html<br>
-论文链接：https://arxiv.org/abs/1904.02639<br>
-GitHub：https://github.com/donggong1/memae-anomaly-detection<br><br>
- 
-6.Scene GraphPrediction with Limited Labels<br>
-作者：Vincent S. Chen, Paroma Varma, Ranjay Krishna, Michael Bernstein, Christopher Re, Li Fei-Fei<br>
-论文链接：https://arxiv.org/abs/1904.11622<br><br>
- 
-5.Deep Hough Voting for 3D Object Detection in Point Clouds（Oral）<br>
-作者：Charles R. Qi, Or Litany, Kaiming He, Leonidas J. Guibas<br>
-论文链接：https://arxiv.org/abs/1904.09664<br><br>
- 
-4.Variational Adversarial Active Learning（Oral）<br>
-作者：Samarth Sinha, Sayna Ebrahimi, Trevor Darrell<br>
-论文链接：https://arxiv.org/abs/1904.00370<br><br>
- 
-3.Ego-Pose Estimation and Forecasting as Real-Time PD Control<br>
-作者：Ye Yuan, Kris Kitani<br>
-论文链接：https://arxiv.org/abs/1906.03173<br><br>
- 
-2.The Trajectron: Probabilistic Multi-Agent Trajectory Modeling withDynamic Spatiotemporal Graphs<br>
-作者：Boris Ivanovic, Marco Pavone<br>
-论文链接：https://arxiv.org/abs/1810.05993<br><br>
- 
-1.End-to-End Learning of Representations for Asynchronous Event-BasedData<br>
-作者：Daniel Gehrig, Antonio Loquercio, Konstantinos G. Derpanis, Davide Scaramuzza<br>
+2. The Trajectron: Probabilistic Multi-Agent Trajectory Modeling withDynamic Spatiotemporal Graphs
+作者：Boris Ivanovic, Marco Pavone
+论文链接：https://arxiv.org/abs/1810.05993
+
+1. End-to-End Learning of Representations for Asynchronous Event-BasedData
+作者：Daniel Gehrig, Antonio Loquercio, Konstantinos G. Derpanis, Davide Scaramuzza
 论文链接：https://arxiv.org/abs/1904.08245
 
 
