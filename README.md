@@ -10,6 +10,16 @@ ICCV2019论文下载及接收ID文档百度云链接<br>链接:https://pan.baidu
 
 ICCV2019论文抢先读：(感谢 [@chongruo](https://github.com/chongruo) [@wwwzxoe303com](https://github.com/wwwzxoe303com) [@wangg12](https://github.com/wangg12) [@Fangget](https://github.com/FangGet) ) <br><br>
 
+217.Differentiable Learning-to-Group Channels via Groupable Convolutional Neural Networks <br>
+作者：Zhaoyang Zhang, Jingyu Li, Wenqi Shao, Zhanglin Peng, Ruimao Zhang, Xiaogang Wang, Ping Luo <br>
+论文链接：https://arxiv.org/abs/1908.05867 <br>
+Github链接：https://github.com/d-li14/dgconv.pytorch <br>
+
+216.HBONet: Harmonious Bottleneck on Two Orthogonal Dimensions <br>
+作者：Duo Li, Aojun Zhou, Anbang Yao <br>
+论文链接：https://arxiv.org/abs/1908.03888 <br>
+Github链接：https://github.com/d-li14/HBONet <br>
+
 215.Clustered Object detection in aerial images <br>
 作者：Fan Yang, Heng Fan, Peng Chu, Erik Blasch, Haibin Ling<br>
 论文链接：https://arxiv.org/pdf/1904.08008 <br>
