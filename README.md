@@ -25,10 +25,19 @@ ICCV2019论文更新：(感谢 [@chongruo](https://github.com/chongruo) [@wwwzxo
 * [**CVPR2019/CVPR2018/CVPR17论文/代码/解读汇总**](https://github.com/extreme-assistant/cvpr2019)<br>
 * [**NIPS2019论文/代码/解读汇总**](https://github.com/extreme-assistant/nips2019)<br><br>
 
+# 4.Best Paper<br>
+*  **ICCV2019最佳论文**:SinGAN：Learning a Generative Model From a Single Natural Image<br>
+论文链接：https://arxiv.org/abs/1905.01164<br>
+GitHub链接：https://github.com/tamarott/SinGAN<br>
+论文解读：https://mp.weixin.qq.com/s/LfulmvSgZcXSIa2hQ5qyow<br>
+*  **ICCV2019 最佳学生论文**：PLMP-Point-Line Minimal Problems in Complete Multi-View Visibility<br>
+论文链接：https://arxiv.org/abs/1903.10008<br>
+GitHub链接：https://github.com/timduff35/PLMP<br>
+*  **[1987~2019年历届 ICCV 最佳论文汇总及下载](http://bbs.cvmart.net/articles/909)**
+<br>
+
 # 4.To do list<br>
 * ICCV2019 论文代码完善<br>
-* ICCV 2019 Best Paper跟进<br>
-* ICCV历届经典论文收集<br>
 * ICCV 2019 现场分享视频搬运<br><br>
 
 # 5.Reference links<br>
