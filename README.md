@@ -18,7 +18,7 @@
 # 3. ICCV2021最新论文分类汇总(持续更新)
 * [Papers/Codes/Project/PaperReading／Demos/直播分享／论文分享会等](https://github.com/extreme-assistant/ICCV2021-Paper-Code-Interpretation/blob/master/ICCV2021.md)
 * ICCV2021全部论文下载
-  * [ICCV2021接受list](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRfaTmsNweuaA0Gjyu58H_Cx56pGwFhcTYII0u1pg0U7MbhlgY0R6Y-BbK3xFhAiwGZ26u3TAtN5MnS/pubhtml)
+  * [ICCV2021接收list](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRfaTmsNweuaA0Gjyu58H_Cx56pGwFhcTYII0u1pg0U7MbhlgY0R6Y-BbK3xFhAiwGZ26u3TAtN5MnS/pubhtml)
 * ICCV2021论文解读汇总 + 技术直播汇总
 * ICCV2021 Oral论文汇总/解读
 
