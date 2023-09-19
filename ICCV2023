@@ -1,0 +1,77 @@
+更多资源汇总贴：
+[CVPR 2023 论文解读汇总](https://www.cvmart.net/community/detail/7423)
+
+[CVPR 2023 最全整理：论文分方向汇总 / 代码 / 解读 / 直播 / 项目（更新中）【计算机视觉】](https://www.cvmart.net/community/detail/7422)
+
+[深度学习各方向数据集资源分类汇总](https://www.cvmart.net/dataSets)
+
+## ICCV 2023论文解读汇总：
+
+
+1.[ICCV23｜南科大VIP Lab: 基于预训练视觉语言模型及大语言模型的Zero-Shot的图像到文本生成](https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247654982&idx=3&sn=7a91906afdb50ac323f59f021fb60837&chksm=ec1273bfdb65faa9ffb9ca38a40e84138f7526e2c808bee9cb36c59e28a049d08762ccf66e76&token=738485724&lang=zh_CN#rd)
+
+2.[ICCV23｜DenseDiffusion：无需训练显著改进文本到图像生成匹配度！](https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247654888&idx=2&sn=a404e8373f5cbcdca8712d15cc797591&chksm=ec127011db65f9075515a5a88b6ed516e856502413ddbb5d0d070a22e0215b111d8b1953c964&token=738485724&lang=zh_CN#rd)
+
+3.[ICCV23｜高效神经网络架构正确打开方式！ EMO：结合 CNN 和 Transformer 的现代倒残差移动模块设计](https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247653815&idx=1&sn=6a307058866c10cf2d5c2b46c8a0e854&chksm=ec12744edb65fd58b890421ea0410ac1ce22e41ff747a62524e83ea76db71ccb9309e04a9a64&token=738485724&lang=zh_CN#rd)
+
+4.[ICCV23｜Query based检测器新思路有了！深度均衡目标检测器DEQDet](https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247653794&idx=3&sn=07f931ed65608672d4e3d100937a2b87&chksm=ec12745bdb65fd4db94d99ce3f513a5f7d545707ce025e920ae7f60bc64a60a142e2ba471909&token=738485724&lang=zh_CN#rd)
+
+5.[ICCV23｜开放词汇实例分割新方法 CGG:：性能俱佳同时具备时间和空间效率优势！](https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247653572&idx=2&sn=c5f0f8226832ad57c9d84d21889edbd6&chksm=ec12753ddb65fc2b243dd09d23d704cf36c9bc93783b22a50cd4a468ffabde3dd6668ec28a51&token=738485724&lang=zh_CN#rd)
+
+6.[ICCV23 Oral | CR-NeRF：从无约束图像集合中生成新视角的交叉光线神经辐射场](https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247653363&idx=3&sn=93d209f9a356f0967f6071cf62720fcb&chksm=ec127a0adb65f31c296f763855da6a8b9087ce69309af22d04519e2b888b6b24680ddd5a78b9&token=738485724&lang=zh_CN#rd)
+
+7.[ICCV23｜一种适用于任意低光照任务增强方法FeatEnHancer：显著提升检测分割精度](https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247653128&idx=2&sn=92dff092eedc997313d1ab74a9a09324&chksm=ec127af1db65f3e7cb7646305cf4a2ae5cd4524682e8a42385092384e046c83924b23d4eb4c5&token=738485724&lang=zh_CN#rd)
+
+8.[ICCV23｜一个模型助你实现图像分类和文本生成（论文解读+代码详细解读）](https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247652450&idx=3&sn=9331b6f95e3b56d33526c8a1a31131e8&chksm=ec12799bdb65f08d1dda309e56c6f0ea511538fbeb50a02742d56b1d90532c36e0c6c60701c8&token=738485724&lang=zh_CN#rd)
+
+9.[ICCV23｜轻量级视觉主干网络AFFNet：频域自适应频段过滤=空域全局动态大卷积核](https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247652421&idx=2&sn=061d42ad9df07b73b782b48e92d55088&chksm=ec1279bcdb65f0aaa5d3f9eb86ccd9d7dc01e32ae010591fefe467b195a1f20663c53eb031d9&token=738485724&lang=zh_CN#rd)
+
+10.[ICCV23｜FLatten Transformer：全新的聚焦式线性注意力模块，助力 ViT 性能再加速！](https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247652247&idx=2&sn=c22c627dd197eafda3ccad91c14fe18e&chksm=ec127e6edb65f778d0540200171435cab7bf6ad986d3bd87edf7c54c64fcd42a70697795048d&token=738485724&lang=zh_CN#rd)
+
+11.[ICCV23｜将隐式神经表征用于低光增强，北大张健团队提出NeRCo](https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247651681&idx=2&sn=a28b77f106927ebb0c214f99ca1bf2d6&chksm=ec127c98db65f58e5d35b74ff65fe1ce89f259aaea442ae671836db55a2f81a1048c3e0e8e9c&token=738485724&lang=zh_CN#rd)
+
+12.[ICCV23｜主流数据集压缩算法无损加速至少八倍！DREAM：高效的数据集压缩匹配算法](https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247650821&idx=2&sn=1b78b0619231342d1abd0aa16ddf6cf4&chksm=ec1263fcdb65eaea825668d418b50009a67e5ab024b5b33abfb235a7420d515f20dfe044c1be&token=738485724&lang=zh_CN#rd)
+
+13.[ICCV23｜ER-NeRF: 用于合成高保真Talking Portrait的高效区域感知神经辐射场](https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247650319&idx=2&sn=62a3c799144f016720045a0e7c602406&chksm=ec1261f6db65e8e0af640b1d37003d026e45aa85766869dc1b559f6bc52e14b6d991cb4c7b22&token=738485724&lang=zh_CN#rd)
+
+14.[ICCV23｜基于box prompts分割一切！OpenSeeD：简单有效的开放词表图像分割框架](https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247649927&idx=3&sn=7bfb2f0d3565b535cdfddf2b5bee3313&chksm=ec12677edb65ee68c3d58d1130d8440e7cddf9b11a5a09078049bceb412cb224415c9bb89065&token=738485724&lang=zh_CN#rd)
+
+15.[ICCV'23｜无需标定的pipeline，极暗场景RAW图像去噪新SOTA！](https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247652068&idx=2&sn=1a6882ae1c98037518db61ccf4f48e97&chksm=ec127f1ddb65f60bb1b5ef40a3f66890aba1806c93816129fc90e88c26fc47dd836d0855cc47&token=738485724&lang=zh_CN#rd)
+
+16.[ICCV 2023｜通用数据增强技术，随机量化适用于任意数据模态](https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247654508&idx=2&sn=897f6512b1c46833de0dae55faa1aa73&chksm=ec127195db65f883f6fb487b9dd69e427c8c80a00cc0e9e7c33f771718aadc6b221410508c22&token=738485724&lang=zh_CN#rd)
+
+17.[ICCV 2023｜利用双重聚合的Transformer进行图像超分辨率](https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247654375&idx=2&sn=ae3a7bf65a4d1469e1cb783f7c8c832e&chksm=ec12761edb65ff08fd17d83028dbd1d68bc7ffa6078741f99fb2f50d7910ca8d1199b8953113&token=738485724&lang=zh_CN#rd)
+
+18.[ICCV'23｜当预训练模型遇到事件相机：一个用于事件相机数据的自监督学习框架](https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247654177&idx=2&sn=9488ba3b444174d30f248cd477f80c7f&chksm=ec1276d8db65ffce4801ba0c24bc3fc03344376206ecbbbf22d299242c99f2f77d898b9fa09e&token=738485724&lang=zh_CN#rd)
+
+19.[ICCV 2023｜沈春华团队提出SegPrompt：提示学习增强开放世界分割](https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247654096&idx=1&sn=56171f49d858eb43f145633fc9a4923c&chksm=ec127729db65fe3f2f83994710073e1630a706939119cf0d7585b0cbef3cbc8dcb1ed83fb3b1&token=738485724&lang=zh_CN#rd)
+
+20.[ICCV 2023｜UDFC：无需任何数据与微调，实现剪枝量化同步进行](https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247654000&idx=2&sn=984396cfff84815d4c63a32c5834e64f&chksm=ec127789db65fe9f567b06b5406357de734a7ab4d4b998e4aad1d0c7b92e6eed83d5da4c1b84&token=738485724&lang=zh_CN#rd)
+
+21.[ICCV 2023 Oral | 突破性图像融合与分割研究：全时多模态基准与多交互特征学习](https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247654000&idx=1&sn=03d41920fa224f9b36bec3ae21160025&chksm=ec127789db65fe9f73d66f033b87c7e2c5a0babfa48ae7cf67a9104d31c1d99d1b5af8439646&token=738485724&lang=zh_CN#rd)
+
+22.[ICCV 2023｜DFA3D: 一个新的将2D特征拉升到3D空间的基础算子](https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247653763&idx=3&sn=5275f017cfca062e92b151a7eab5b574&chksm=ec12747adb65fd6c26d66ccf9ad5dc9ce429ab28b3971877e30b9bbbcb54d72b4070a3dad6f9&token=738485724&lang=zh_CN#rd)
+
+23.[ICCV23 Oral | CR-NeRF：从无约束图像集合中生成新视角的交叉光线神经辐射场](https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247653363&idx=3&sn=93d209f9a356f0967f6071cf62720fcb&chksm=ec127a0adb65f31c296f763855da6a8b9087ce69309af22d04519e2b888b6b24680ddd5a78b9&token=738485724&lang=zh_CN#rd)
+
+24.[ICCV 2023｜混合训练策略突破目标检测大模型上限，创下COCO、LVIS新SOTA](https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247653363&idx=1&sn=49f4a03fb991f56bd3a89ca6875b4b94&chksm=ec127a0adb65f31c9f471d3d6ae1d97726cc450be0d234c7d33ed9a46866f14fd1b06eb1422b&token=738485724&lang=zh_CN#rd)
+
+25.[ICCV 2023｜DiffRate：首个压缩率可微分Token压缩，无需fine-tuning性能超越ToMe](https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247653128&idx=1&sn=12021572eb33b22d66a5845fc86899fb&chksm=ec127af1db65f3e797102696e5f7c116242f689ceb22d6fc97dae4a65146c8c39a8992abe270&token=738485724&lang=zh_CN#rd)
+
+26.[ICCV 2023｜探索基于生成模型的 Backbone 预训练](https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247652807&idx=3&sn=269608e78ec4ab06f4406a8419a2227d&chksm=ec12783edb65f12880b3d05f4f9b2f6fdb2321bf45905af50dd215fe3b41d0f55d37adace43a&token=738485724&lang=zh_CN#rd)
+
+27.[ICCV 2023｜Pixel-based MIM: 简单高效的多级特征融合自监督方法](https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247652450&idx=2&sn=d009fb44e33a4e3c41c32c75c02c9fcf&chksm=ec12799bdb65f08da44b2a63bfd841ccae4a6026101506750e229e72cd815e33e87a64ae254f&token=738485724&lang=zh_CN#rd)
+
+28.[ICCV 2023｜旷视研究院14篇入选论文亮点解读](https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247651847&idx=2&sn=d18a5bc997edda4fee66346b7c34d34f&chksm=ec127ffedb65f6e89cc7eba3a46a74e85de9056265acffed057afd3932f27c82b787e7404e9b&token=738485724&lang=zh_CN#rd)
+
+29.[ICCV 2023｜腾讯优图16篇论文入选！轻量级主干、异常检测和扩散模型等方向](https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247651022&idx=3&sn=5ed27d33bfc37347e8eac6e86ba25879&chksm=ec126337db65ea215a17d252975c76a31dac5a8422bba132384372bd022decf71d7684167bd2&token=738485724&lang=zh_CN#rd)
+
+30.[ICCV 2023｜只有1.3ms 延迟！清华最新开源移动端神经网络架构 RepViT](https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247650960&idx=1&sn=0c6345c4e5c9b1cdb5e5300f4b233628&chksm=ec126369db65ea7f2d7ff0e3a4135a4abd25938988caa1b1932710f163c0965a8783ed0a4891&token=738485724&lang=zh_CN#rd)
+
+31.[ICCV 2023｜南开程明明团队提出适用于SR任务的新颖注意力机制（已开源）](https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247650821&idx=1&sn=a61d911881c3a9ae776c1b585cb2e965&chksm=ec1263fcdb65eaea5eb85a2a0d039ba155705bbd4b433216e99674cccbb65cb0a6c5bb7da52e&token=738485724&lang=zh_CN#rd)
+
+32.[ICCV 2023｜从蒸馏到自蒸馏：通用归一化损失与定制软标签](https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247650509&idx=2&sn=6c974c18cc0cb61f6f21578719b1834e&chksm=ec126134db65e822fbae0f08f8cab601cb910b0d5a93e2b08498592f6ff1038ed8727b772e7f&token=738485724&lang=zh_CN#rd)
+
+33.[ICCV 2023｜基于ViT的高效视频识别UniFormerV2开源，K400首次90%准确率！](https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247649927&idx=1&sn=acd20ffad85a658433657f165e2b736d&chksm=ec12677edb65ee68a32414ca80c2dd30fbcc7319ec2a07fd389321719dfcc0cb3ec8f6f22cf8&token=738485724&lang=zh_CN#rd)
+
+34.[ICCV 2023｜人体动作预测新范式——HumanMAC（开源）](https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247649852&idx=3&sn=6155df661778fda07a26d23de693c974&chksm=ec1267c5db65eed3ab912feef6fbcdb04067e87edc593a5ac8486595c251cd1bfdfd6e32a294&token=738485724&lang=zh_CN#rd)
