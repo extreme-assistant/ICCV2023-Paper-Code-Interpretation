@@ -17,8 +17,8 @@
 <br>
 <a name="4"/> 
  
-# 4. ICCV2021最新论文解读/直播汇总（持续更新中）
-* [PaperReading／Demos/直播分享／论文分享会等](https://github.com/extreme-assistant/ICCV2021-Paper-Code-Interpretation/blob/master/ICCV2023)
+# 4. ICCV2023最新论文解读/直播汇总（持续更新中）
+* [PaperReading／Demos/直播分享／论文分享会等](https://www.cvmart.net/community/detail/8015)
 
 
 <br>
